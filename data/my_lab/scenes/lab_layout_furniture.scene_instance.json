@@ -1,0 +1,157 @@
+{
+  "stage_instance": {
+    "template_name": "lab_stage"
+  },
+  "object_instances": [
+    {
+      "template_name": "desk",
+      "translation": [
+        -2.2,
+        0.375,
+        -1.5
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "chairDesk",
+      "translation": [
+        -2.2,
+        0.475,
+        -0.6
+      ],
+      "rotation": [
+        6.123233995736766e-17,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "loungeSofa",
+      "translation": [
+        1.8,
+        0.425,
+        -1.6
+      ],
+      "rotation": [
+        0.9659258262890683,
+        0.0,
+        -0.25881904510252074,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "tableCoffee",
+      "translation": [
+        1.5,
+        0.2,
+        -0.3
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "bookcaseOpen",
+      "translation": [
+        -3.2,
+        0.9000000000000001,
+        0.0
+      ],
+      "rotation": [
+        0.7071067811865476,
+        0.0,
+        0.7071067811865475,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "lampRoundFloor",
+      "translation": [
+        2.6,
+        0.75,
+        0.8
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "pottedPlant",
+      "translation": [
+        -1.0,
+        0.225,
+        2.0
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "sideTable",
+      "translation": [
+        2.8,
+        0.275,
+        -1.6
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "televisionModern",
+      "translation": [
+        0.0,
+        0.275,
+        -2.4
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    },
+    {
+      "template_name": "trashcan",
+      "translation": [
+        3.0,
+        0.275,
+        2.0
+      ],
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "motion_type": "STATIC"
+    }
+  ]
+}

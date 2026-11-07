@@ -1,0 +1,5137 @@
+{
+  "source_dir": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format",
+  "output_dir": "/home/ymq/Habitat/data/assets/furniture/kenney",
+  "count": 114,
+  "assets": {
+    "bathroomCabinet": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bathroomCabinet.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomCabinet.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.20000000298023224,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.39000001549720764,
+        -0.07999999632351741
+      ],
+      "raw_size": [
+        0.23000000417232513,
+        0.39000001549720764,
+        0.12999999711997168
+      ],
+      "scale_applied": 2.5641024622142865,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.29487178850377754,
+        0.0,
+        -0.16666665635158476
+      ],
+      "normalized_max": [
+        0.29487178850377754,
+        1.0,
+        0.16666665635158473
+      ],
+      "normalized_size": [
+        0.5897435770075551,
+        1.0,
+        0.33333331270316946
+      ],
+      "half_height_m": 0.5,
+      "footprint_m": [
+        0.5897435770075551,
+        0.33333331270316946
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomCabinet.object_config.json",
+      "mass": 25.0,
+      "template_handle": "bathroomCabinet"
+    },
+    "bathroomCabinetDrawer": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bathroomCabinetDrawer.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomCabinetDrawer.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.05824185907840729,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.5300000309944153,
+        -0.13000000044703483
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.471758171916008,
+        0.3199999876320362
+      ],
+      "scale_applied": 2.1197301065047376,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.4557419804792642,
+        0.0,
+        -0.3391568039323854
+      ],
+      "normalized_max": [
+        0.4557419804792642,
+        0.9999999999999999,
+        0.33915680393238545
+      ],
+      "normalized_size": [
+        0.9114839609585283,
+        0.9999999999999999,
+        0.6783136078647709
+      ],
+      "half_height_m": 0.49999999999999994,
+      "footprint_m": [
+        0.9114839609585283,
+        0.6783136078647709
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomCabinetDrawer.object_config.json",
+      "mass": 25.0,
+      "template_handle": "bathroomCabinetDrawer"
+    },
+    "bathroomMirror": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bathroomMirror.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomMirror.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        4.443999015351155e-15,
+        -0.04879999905824661
+      ],
+      "raw_max": [
+        0.3013399839401245,
+        0.4346250295639038,
+        0.09560000151395798
+      ],
+      "raw_size": [
+        0.3013399839401245,
+        0.43462502956389937,
+        0.1444000005722046
+      ],
+      "scale_applied": 2.07075050625376,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.3119999621492564,
+        0.0,
+        -0.14950818714396796
+      ],
+      "normalized_max": [
+        0.3119999621492564,
+        0.9,
+        0.14950818714396796
+      ],
+      "normalized_size": [
+        0.6239999242985128,
+        0.9,
+        0.2990163742879359
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.6239999242985128,
+        0.2990163742879359
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomMirror.object_config.json",
+      "mass": 10.0,
+      "template_handle": "bathroomMirror"
+    },
+    "bathroomSink": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bathroomSink.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomSink.glb",
+      "category": "sink",
+      "raw_min": [
+        0.0,
+        -0.4000000059604645,
+        -0.28999999165534973
+      ],
+      "raw_max": [
+        0.3400000035762787,
+        0.1599999964237213,
+        0.0
+      ],
+      "raw_size": [
+        0.3400000035762787,
+        0.5600000023841858,
+        0.28999999165534973
+      ],
+      "scale_applied": 1.5178571363949045,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.25803571590127383,
+        0.0,
+        -0.22008927844426768
+      ],
+      "normalized_max": [
+        0.25803571590127383,
+        0.85,
+        0.22008927844426768
+      ],
+      "normalized_size": [
+        0.5160714318025477,
+        0.85,
+        0.44017855688853536
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        0.5160714318025477,
+        0.44017855688853536
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomSink.object_config.json",
+      "mass": 10.0,
+      "template_handle": "bathroomSink"
+    },
+    "bathroomSinkSquare": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bathroomSinkSquare.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomSinkSquare.glb",
+      "category": "sink",
+      "raw_min": [
+        0.0,
+        0.05680800974369049,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.6368080377578735,
+        -0.15000000596046448
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.580000028014183,
+        0.29999998211860657
+      ],
+      "scale_applied": 1.4655171705943684,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.315086196918887,
+        0.0,
+        -0.2198275624864107
+      ],
+      "normalized_max": [
+        0.315086196918887,
+        0.85,
+        0.2198275624864107
+      ],
+      "normalized_size": [
+        0.630172393837774,
+        0.85,
+        0.4396551249728214
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        0.630172393837774,
+        0.4396551249728214
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bathroomSinkSquare.object_config.json",
+      "mass": 10.0,
+      "template_handle": "bathroomSinkSquare"
+    },
+    "bathtub": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bathtub.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bathtub.glb",
+      "category": "bathtub",
+      "raw_min": [
+        0.0,
+        -3.1583624553714476e-16,
+        -0.5600000023841858
+      ],
+      "raw_max": [
+        1.190000057220459,
+        0.41999998688697815,
+        0.0
+      ],
+      "raw_size": [
+        1.190000057220459,
+        0.4199999868869785,
+        0.5600000023841858
+      ],
+      "scale_applied": 1.309523850409082,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.7791667284591817,
+        0.0,
+        -0.36666667967561706
+      ],
+      "normalized_max": [
+        0.7791667284591817,
+        0.55,
+        0.36666667967561706
+      ],
+      "normalized_size": [
+        1.5583334569183633,
+        0.55,
+        0.7333333593512341
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        1.5583334569183633,
+        0.7333333593512341
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bathtub.object_config.json",
+      "mass": 10.0,
+      "template_handle": "bathtub"
+    },
+    "bear": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bear.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bear.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.2475000023841858
+      ],
+      "raw_max": [
+        0.3897114396095276,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.3897114396095276,
+        0.44999998807907104,
+        0.2475000023841858
+      ],
+      "scale_applied": 2.0000000529819077,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.3897114499333554,
+        0.0,
+        -0.24750000894069693
+      ],
+      "normalized_max": [
+        0.3897114499333554,
+        0.8999999999999999,
+        0.24750000894069693
+      ],
+      "normalized_size": [
+        0.7794228998667108,
+        0.8999999999999999,
+        0.49500001788139386
+      ],
+      "half_height_m": 0.44999999999999996,
+      "footprint_m": [
+        0.7794228998667108,
+        0.49500001788139386
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bear.object_config.json",
+      "mass": 10.0,
+      "template_handle": "bear"
+    },
+    "bedBunk": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bedBunk.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bedBunk.glb",
+      "category": "bed",
+      "raw_min": [
+        2.50536452695016e-09,
+        0.0,
+        -1.0950000286102295
+      ],
+      "raw_max": [
+        0.5709999920426173,
+        0.8499999642372131,
+        0.0
+      ],
+      "raw_size": [
+        0.5709999895372528,
+        0.8499999642372131,
+        1.0950000286102295
+      ],
+      "scale_applied": 0.6470588507536797,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.18473529850516895,
+        0.0,
+        -0.35426473004389075
+      ],
+      "normalized_max": [
+        0.18473529850516898,
+        0.55,
+        0.35426473004389075
+      ],
+      "normalized_size": [
+        0.3694705970103379,
+        0.55,
+        0.7085294600877815
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.3694705970103379,
+        0.7085294600877815
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bedBunk.object_config.json",
+      "mass": 40.0,
+      "template_handle": "bedBunk"
+    },
+    "bedDouble": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bedDouble.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bedDouble.glb",
+      "category": "bed",
+      "raw_min": [
+        -8.792835244630925e-10,
+        0.0,
+        -1.125
+      ],
+      "raw_max": [
+        0.9559999920426173,
+        0.375,
+        0.0
+      ],
+      "raw_size": [
+        0.9559999929219009,
+        0.375,
+        1.125
+      ],
+      "scale_applied": 1.4666666666666668,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.7010666614760607,
+        0.0,
+        -0.8250000000000001
+      ],
+      "normalized_max": [
+        0.7010666614760607,
+        0.55,
+        0.8250000000000001
+      ],
+      "normalized_size": [
+        1.4021333229521213,
+        0.55,
+        1.6500000000000001
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        1.4021333229521213,
+        1.6500000000000001
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bedDouble.object_config.json",
+      "mass": 40.0,
+      "template_handle": "bedDouble"
+    },
+    "bedSingle": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bedSingle.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bedSingle.glb",
+      "category": "bed",
+      "raw_min": [
+        0.38500000250536454,
+        3.311768719503616e-14,
+        -1.125
+      ],
+      "raw_max": [
+        0.9559999920426173,
+        0.375,
+        0.0
+      ],
+      "raw_size": [
+        0.5709999895372528,
+        0.37499999999996686,
+        1.125
+      ],
+      "scale_applied": 1.4666666666667965,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.41873332566068905,
+        0.0,
+        -0.825000000000073
+      ],
+      "normalized_max": [
+        0.41873332566068916,
+        0.55,
+        0.825000000000073
+      ],
+      "normalized_size": [
+        0.8374666513213782,
+        0.55,
+        1.650000000000146
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.8374666513213782,
+        1.650000000000146
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bedSingle.object_config.json",
+      "mass": 40.0,
+      "template_handle": "bedSingle"
+    },
+    "bench": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bench.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bench.glb",
+      "category": "bench",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.4000000059604645,
+        0.4699999988079071,
+        0.0
+      ],
+      "raw_size": [
+        0.4000000059604645,
+        0.4699999988079071,
+        0.20000000298023224
+      ],
+      "scale_applied": 0.9574468109390757,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.191489365041229,
+        0.0,
+        -0.0957446825206145
+      ],
+      "normalized_max": [
+        0.191489365041229,
+        0.45,
+        0.0957446825206145
+      ],
+      "normalized_size": [
+        0.382978730082458,
+        0.45,
+        0.191489365041229
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.382978730082458,
+        0.191489365041229
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bench.object_config.json",
+      "mass": 10.0,
+      "template_handle": "bench"
+    },
+    "benchCushion": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/benchCushion.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/benchCushion.glb",
+      "category": "bench",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.4000000059604645,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.4000000059604645,
+        0.46000000834465027,
+        0.20000000298023224
+      ],
+      "scale_applied": 0.9782608518190333,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.1956521732792512,
+        0.0,
+        -0.0978260866396256
+      ],
+      "normalized_max": [
+        0.1956521732792512,
+        0.45,
+        0.0978260866396256
+      ],
+      "normalized_size": [
+        0.3913043465585024,
+        0.45,
+        0.1956521732792512
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.3913043465585024,
+        0.1956521732792512
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/benchCushion.object_config.json",
+      "mass": 10.0,
+      "template_handle": "benchCushion"
+    },
+    "benchCushionLow": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/benchCushionLow.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/benchCushionLow.glb",
+      "category": "bench",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.4100000262260437,
+        0.20000000298023224,
+        0.009999999776482582
+      ],
+      "raw_size": [
+        0.4200000260025263,
+        0.20000000298023224,
+        0.21999999321997166
+      ],
+      "scale_applied": 2.2499999664723878,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.47250002221204307,
+        0.0,
+        -0.24749998868443088
+      ],
+      "normalized_max": [
+        0.47250002221204307,
+        0.45,
+        0.24749998868443088
+      ],
+      "normalized_size": [
+        0.9450000444240861,
+        0.45,
+        0.49499997736886175
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.9450000444240861,
+        0.49499997736886175
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/benchCushionLow.object_config.json",
+      "mass": 10.0,
+      "template_handle": "benchCushionLow"
+    },
+    "bookcaseClosed": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bookcaseClosed.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseClosed.glb",
+      "category": "bookcase",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.4000000059604645,
+        0.8499999642372131,
+        0.0
+      ],
+      "raw_size": [
+        0.4000000059604645,
+        0.8499999642372131,
+        0.25
+      ],
+      "scale_applied": 2.117647147921134,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.42352943589530706,
+        0.0,
+        -0.26470589349014173
+      ],
+      "normalized_max": [
+        0.42352943589530706,
+        1.8000000000000003,
+        0.26470589349014173
+      ],
+      "normalized_size": [
+        0.8470588717906141,
+        1.8000000000000003,
+        0.5294117869802835
+      ],
+      "half_height_m": 0.9000000000000001,
+      "footprint_m": [
+        0.8470588717906141,
+        0.5294117869802835
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseClosed.object_config.json",
+      "mass": 30.0,
+      "template_handle": "bookcaseClosed"
+    },
+    "bookcaseClosedDoors": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bookcaseClosedDoors.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseClosedDoors.glb",
+      "category": "bookcase",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.4000000059604645,
+        0.8499999642372131,
+        0.0
+      ],
+      "raw_size": [
+        0.4000000059604645,
+        0.8499999642372131,
+        0.25
+      ],
+      "scale_applied": 2.117647147921134,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.42352943589530706,
+        0.0,
+        -0.26470589349014173
+      ],
+      "normalized_max": [
+        0.42352943589530706,
+        1.8000000000000003,
+        0.26470589349014173
+      ],
+      "normalized_size": [
+        0.8470588717906141,
+        1.8000000000000003,
+        0.5294117869802835
+      ],
+      "half_height_m": 0.9000000000000001,
+      "footprint_m": [
+        0.8470588717906141,
+        0.5294117869802835
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseClosedDoors.object_config.json",
+      "mass": 30.0,
+      "template_handle": "bookcaseClosedDoors"
+    },
+    "bookcaseClosedWide": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bookcaseClosedWide.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseClosedWide.glb",
+      "category": "bookcase",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.800000011920929,
+        0.7899999618530273,
+        0.0
+      ],
+      "raw_size": [
+        0.800000011920929,
+        0.7899999618530273,
+        0.25
+      ],
+      "scale_applied": 2.2784811226799455,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.911392462652784,
+        0.0,
+        -0.2848101403349932
+      ],
+      "normalized_max": [
+        0.911392462652784,
+        1.7999999999999998,
+        0.2848101403349932
+      ],
+      "normalized_size": [
+        1.822784925305568,
+        1.7999999999999998,
+        0.5696202806699864
+      ],
+      "half_height_m": 0.8999999999999999,
+      "footprint_m": [
+        1.822784925305568,
+        0.5696202806699864
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseClosedWide.object_config.json",
+      "mass": 30.0,
+      "template_handle": "bookcaseClosedWide"
+    },
+    "bookcaseOpen": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bookcaseOpen.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseOpen.glb",
+      "category": "bookcase",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.4000000059604645,
+        0.8799999356269836,
+        0.0
+      ],
+      "raw_size": [
+        0.4000000059604645,
+        0.8799999356269836,
+        0.25
+      ],
+      "scale_applied": 2.045454695081919,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.4090909451123138,
+        0.0,
+        -0.2556818368852399
+      ],
+      "normalized_max": [
+        0.4090909451123138,
+        1.8000000000000003,
+        0.2556818368852399
+      ],
+      "normalized_size": [
+        0.8181818902246276,
+        1.8000000000000003,
+        0.5113636737704798
+      ],
+      "half_height_m": 0.9000000000000001,
+      "footprint_m": [
+        0.8181818902246276,
+        0.5113636737704798
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseOpen.object_config.json",
+      "mass": 30.0,
+      "template_handle": "bookcaseOpen"
+    },
+    "bookcaseOpenLow": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/bookcaseOpenLow.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseOpenLow.glb",
+      "category": "bookcase",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.4000000059604645,
+        0.4000000059604645,
+        0.0
+      ],
+      "raw_size": [
+        0.4000000059604645,
+        0.4000000059604645,
+        0.25
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.800000011920929,
+        0.0,
+        -0.5
+      ],
+      "normalized_max": [
+        0.800000011920929,
+        1.600000023841858,
+        0.5
+      ],
+      "normalized_size": [
+        1.600000023841858,
+        1.600000023841858,
+        1.0
+      ],
+      "half_height_m": 0.800000011920929,
+      "footprint_m": [
+        1.600000023841858,
+        1.0
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/bookcaseOpenLow.object_config.json",
+      "mass": 30.0,
+      "template_handle": "bookcaseOpenLow"
+    },
+    "books": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/books.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/books.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.09449999779462814
+      ],
+      "raw_max": [
+        0.15044759213924408,
+        0.10390225797891617,
+        0.0
+      ],
+      "raw_size": [
+        0.15044759213924408,
+        0.10390225797891617,
+        0.09449999779462814
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.30089518427848816,
+        0.0,
+        -0.1889999955892563
+      ],
+      "normalized_max": [
+        0.30089518427848816,
+        0.4156090319156647,
+        0.1889999955892563
+      ],
+      "normalized_size": [
+        0.6017903685569763,
+        0.4156090319156647,
+        0.3779999911785126
+      ],
+      "half_height_m": 0.20780451595783234,
+      "footprint_m": [
+        0.6017903685569763,
+        0.3779999911785126
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/books.object_config.json",
+      "mass": 10.0,
+      "template_handle": "books"
+    },
+    "cabinetBed": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cabinetBed.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetBed.glb",
+      "category": "bed",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.20500001311302185
+      ],
+      "raw_max": [
+        0.25599998235702515,
+        0.23320001363754272,
+        0.009999999776482582
+      ],
+      "raw_size": [
+        0.26599998213350773,
+        0.23320001363754272,
+        0.21500001288950443
+      ],
+      "scale_applied": 2.358490428113148,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.31367920587007314,
+        0.0,
+        -0.2535377362220498
+      ],
+      "normalized_max": [
+        0.31367920587007314,
+        0.55,
+        0.2535377362220498
+      ],
+      "normalized_size": [
+        0.6273584117401463,
+        0.55,
+        0.5070754724440996
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.6273584117401463,
+        0.5070754724440996
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetBed.object_config.json",
+      "mass": 40.0,
+      "template_handle": "cabinetBed"
+    },
+    "cabinetBedDrawer": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cabinetBedDrawer.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetBedDrawer.glb",
+      "category": "bed",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.20500001311302185
+      ],
+      "raw_max": [
+        0.25599998235702515,
+        0.26319998502731323,
+        0.012299999223480212
+      ],
+      "raw_size": [
+        0.26599998213350773,
+        0.26319998502731323,
+        0.21730001233650206
+      ],
+      "scale_applied": 2.089665772370483,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.2779255290577755,
+        0.0,
+        -0.227042199057636
+      ],
+      "normalized_max": [
+        0.2779255290577755,
+        0.55,
+        0.227042199057636
+      ],
+      "normalized_size": [
+        0.555851058115551,
+        0.55,
+        0.454084398115272
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.555851058115551,
+        0.454084398115272
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetBedDrawer.object_config.json",
+      "mass": 40.0,
+      "template_handle": "cabinetBedDrawer"
+    },
+    "cabinetBedDrawerTable": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cabinetBedDrawerTable.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetBedDrawerTable.glb",
+      "category": "bed",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.20500001311302185
+      ],
+      "raw_max": [
+        0.25599998235702515,
+        0.26319998502731323,
+        0.012299999223480212
+      ],
+      "raw_size": [
+        0.26599998213350773,
+        0.26319998502731323,
+        0.21730001233650206
+      ],
+      "scale_applied": 2.089665772370483,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.2779255290577755,
+        0.0,
+        -0.227042199057636
+      ],
+      "normalized_max": [
+        0.2779255290577755,
+        0.55,
+        0.227042199057636
+      ],
+      "normalized_size": [
+        0.555851058115551,
+        0.55,
+        0.454084398115272
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.555851058115551,
+        0.454084398115272
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetBedDrawerTable.object_config.json",
+      "mass": 40.0,
+      "template_handle": "cabinetBedDrawerTable"
+    },
+    "cabinetTelevision": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cabinetTelevision.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetTelevision.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.800000011920929,
+        0.3100000023841858,
+        0.0
+      ],
+      "raw_size": [
+        0.800000011920929,
+        0.3100000023841858,
+        0.25
+      ],
+      "scale_applied": 3.225806426803478,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -1.2903225899486959,
+        0.0,
+        -0.40322580335043473
+      ],
+      "normalized_max": [
+        1.2903225899486959,
+        1.0,
+        0.40322580335043473
+      ],
+      "normalized_size": [
+        2.5806451798973917,
+        1.0,
+        0.8064516067008695
+      ],
+      "half_height_m": 0.5,
+      "footprint_m": [
+        2.5806451798973917,
+        0.8064516067008695
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetTelevision.object_config.json",
+      "mass": 25.0,
+      "template_handle": "cabinetTelevision"
+    },
+    "cabinetTelevisionDoors": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cabinetTelevisionDoors.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetTelevisionDoors.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.25
+      ],
+      "raw_max": [
+        0.800000011920929,
+        0.3100000023841858,
+        0.010000001192092895
+      ],
+      "raw_size": [
+        0.800000011920929,
+        0.3100000023841858,
+        0.2600000011920929
+      ],
+      "scale_applied": 3.225806426803478,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -1.2903225899486959,
+        0.0,
+        -0.41935483740718255
+      ],
+      "normalized_max": [
+        1.2903225899486959,
+        1.0,
+        0.41935483740718255
+      ],
+      "normalized_size": [
+        2.5806451798973917,
+        1.0,
+        0.8387096748143651
+      ],
+      "half_height_m": 0.5,
+      "footprint_m": [
+        2.5806451798973917,
+        0.8387096748143651
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cabinetTelevisionDoors.object_config.json",
+      "mass": 25.0,
+      "template_handle": "cabinetTelevisionDoors"
+    },
+    "cardboardBoxClosed": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cardboardBoxClosed.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cardboardBoxClosed.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.21249999105930328
+      ],
+      "raw_max": [
+        0.21249999105930328,
+        0.2809999883174896,
+        9.02389263509778e-17
+      ],
+      "raw_size": [
+        0.21249999105930328,
+        0.2809999883174896,
+        0.21249999105930337
+      ],
+      "scale_applied": 3.2028471082466,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.3403024909333589,
+        0.0,
+        -0.34030249093335907
+      ],
+      "normalized_max": [
+        0.3403024909333589,
+        0.9,
+        0.3403024909333591
+      ],
+      "normalized_size": [
+        0.6806049818667178,
+        0.9,
+        0.6806049818667181
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.6806049818667178,
+        0.6806049818667181
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cardboardBoxClosed.object_config.json",
+      "mass": 10.0,
+      "template_handle": "cardboardBoxClosed"
+    },
+    "cardboardBoxOpen": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/cardboardBoxOpen.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/cardboardBoxOpen.glb",
+      "category": "default",
+      "raw_min": [
+        -0.07968749850988388,
+        0.0,
+        -0.21249999105930328
+      ],
+      "raw_max": [
+        0.29218748211860657,
+        0.2809999883174896,
+        9.02389263509778e-17
+      ],
+      "raw_size": [
+        0.37187498062849045,
+        0.2809999883174896,
+        0.21249999105930337
+      ],
+      "scale_applied": 3.2028471082466,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.5955293531676105,
+        0.0,
+        -0.34030249093335907
+      ],
+      "normalized_max": [
+        0.5955293531676105,
+        0.9,
+        0.3403024909333591
+      ],
+      "normalized_size": [
+        1.191058706335221,
+        0.9,
+        0.6806049818667181
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        1.191058706335221,
+        0.6806049818667181
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/cardboardBoxOpen.object_config.json",
+      "mass": 10.0,
+      "template_handle": "cardboardBoxOpen"
+    },
+    "chair": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/chair.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/chair.glb",
+      "category": "chair",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.4699999988079071,
+        0.0
+      ],
+      "raw_size": [
+        0.20000000298023224,
+        0.4699999988079071,
+        0.20000000298023224
+      ],
+      "scale_applied": 2.021276600871382,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.20212766309907504,
+        0.0,
+        -0.20212766309907504
+      ],
+      "normalized_max": [
+        0.20212766309907504,
+        0.95,
+        0.20212766309907504
+      ],
+      "normalized_size": [
+        0.4042553261981501,
+        0.95,
+        0.4042553261981501
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.4042553261981501,
+        0.4042553261981501
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/chair.object_config.json",
+      "mass": 8.0,
+      "template_handle": "chair"
+    },
+    "chairCushion": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/chairCushion.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/chairCushion.glb",
+      "category": "chair",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.20000000298023224,
+        0.46000000834465027,
+        0.20000000298023224
+      ],
+      "scale_applied": 2.0652173538401812,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.2065217384614318,
+        0.0,
+        -0.2065217384614318
+      ],
+      "normalized_max": [
+        0.2065217384614318,
+        0.95,
+        0.2065217384614318
+      ],
+      "normalized_size": [
+        0.4130434769228636,
+        0.95,
+        0.4130434769228636
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.4130434769228636,
+        0.4130434769228636
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/chairCushion.object_config.json",
+      "mass": 8.0,
+      "template_handle": "chairCushion"
+    },
+    "chairDesk": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/chairDesk.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/chairDesk.glb",
+      "category": "chair",
+      "raw_min": [
+        -2.3841845164795927e-11,
+        0.0,
+        -0.31429903566837314
+      ],
+      "raw_max": [
+        0.3349500000238419,
+        0.6075999760627746,
+        -3.5762786898541066e-09
+      ],
+      "raw_size": [
+        0.3349500000476837,
+        0.6075999760627746,
+        0.3142990320920944
+      ],
+      "scale_applied": 1.563528698858688,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.26185196887863627,
+        0.0,
+        -0.24570777834974872
+      ],
+      "normalized_max": [
+        0.2618519688786362,
+        0.95,
+        0.24570777834974877
+      ],
+      "normalized_size": [
+        0.5237039377572725,
+        0.95,
+        0.4914155566994975
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.5237039377572725,
+        0.4914155566994975
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/chairDesk.object_config.json",
+      "mass": 8.0,
+      "template_handle": "chairDesk"
+    },
+    "chairModernCushion": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/chairModernCushion.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/chairModernCushion.glb",
+      "category": "chair",
+      "raw_min": [
+        0.0,
+        -1.1163578261817683e-17,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.20000000298023224,
+        0.46000000834465027,
+        0.20000000298023224
+      ],
+      "scale_applied": 2.0652173538401812,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.2065217384614318,
+        0.0,
+        -0.2065217384614318
+      ],
+      "normalized_max": [
+        0.2065217384614318,
+        0.95,
+        0.2065217384614318
+      ],
+      "normalized_size": [
+        0.4130434769228636,
+        0.95,
+        0.4130434769228636
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.4130434769228636,
+        0.4130434769228636
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/chairModernCushion.object_config.json",
+      "mass": 8.0,
+      "template_handle": "chairModernCushion"
+    },
+    "chairModernFrameCushion": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/chairModernFrameCushion.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/chairModernFrameCushion.glb",
+      "category": "chair",
+      "raw_min": [
+        0.0,
+        -1.1163578261817683e-17,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.20000000298023224,
+        0.46000000834465027,
+        0.20000000298023224
+      ],
+      "scale_applied": 2.0652173538401812,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.2065217384614318,
+        0.0,
+        -0.2065217384614318
+      ],
+      "normalized_max": [
+        0.2065217384614318,
+        0.95,
+        0.2065217384614318
+      ],
+      "normalized_size": [
+        0.4130434769228636,
+        0.95,
+        0.4130434769228636
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.4130434769228636,
+        0.4130434769228636
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/chairModernFrameCushion.object_config.json",
+      "mass": 8.0,
+      "template_handle": "chairModernFrameCushion"
+    },
+    "chairRounded": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/chairRounded.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/chairRounded.glb",
+      "category": "chair",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20000000298023224
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.45499998331069946,
+        0.0
+      ],
+      "raw_size": [
+        0.20000000298023224,
+        0.45499998331069946,
+        0.20000000298023224
+      ],
+      "scale_applied": 2.0879121644962497,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.20879121956085656,
+        0.0,
+        -0.20879121956085656
+      ],
+      "normalized_max": [
+        0.20879121956085656,
+        0.9500000000000001,
+        0.20879121956085656
+      ],
+      "normalized_size": [
+        0.4175824391217131,
+        0.9500000000000001,
+        0.4175824391217131
+      ],
+      "half_height_m": 0.47500000000000003,
+      "footprint_m": [
+        0.4175824391217131,
+        0.4175824391217131
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/chairRounded.object_config.json",
+      "mass": 8.0,
+      "template_handle": "chairRounded"
+    },
+    "coatRack": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/coatRack.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/coatRack.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.13439999520778656
+      ],
+      "raw_max": [
+        0.4479999840259552,
+        0.2800000011920929,
+        0.0
+      ],
+      "raw_size": [
+        0.4479999840259552,
+        0.2800000011920929,
+        0.13439999520778656
+      ],
+      "scale_applied": 3.2142857006009744,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.7199999712620464,
+        0.0,
+        -0.21599999137861392
+      ],
+      "normalized_max": [
+        0.7199999712620464,
+        0.9,
+        0.21599999137861392
+      ],
+      "normalized_size": [
+        1.4399999425240928,
+        0.9,
+        0.43199998275722784
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        1.4399999425240928,
+        0.43199998275722784
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/coatRack.object_config.json",
+      "mass": 10.0,
+      "template_handle": "coatRack"
+    },
+    "coatRackStanding": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/coatRackStanding.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/coatRackStanding.glb",
+      "category": "default",
+      "raw_min": [
+        -0.1363999992609024,
+        3.0776935281025807e-29,
+        -0.1363999992609024
+      ],
+      "raw_max": [
+        0.1363999992609024,
+        0.7699999809265137,
+        0.1363999992609024
+      ],
+      "raw_size": [
+        0.2727999985218048,
+        0.7699999809265137,
+        0.2727999985218048
+      ],
+      "scale_applied": 1.1688311977840076,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.1594285745138583,
+        0.0,
+        -0.1594285745138583
+      ],
+      "normalized_max": [
+        0.1594285745138583,
+        0.8999999999999999,
+        0.1594285745138583
+      ],
+      "normalized_size": [
+        0.3188571490277166,
+        0.8999999999999999,
+        0.3188571490277166
+      ],
+      "half_height_m": 0.44999999999999996,
+      "footprint_m": [
+        0.3188571490277166,
+        0.3188571490277166
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/coatRackStanding.object_config.json",
+      "mass": 10.0,
+      "template_handle": "coatRackStanding"
+    },
+    "computerKeyboard": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/computerKeyboard.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/computerKeyboard.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        1.602965340036949e-31,
+        -0.11819199472665787
+      ],
+      "raw_max": [
+        0.28220000863075256,
+        0.027556000277400017,
+        -3.609557054039112e-16
+      ],
+      "raw_size": [
+        0.28220000863075256,
+        0.027556000277400017,
+        0.1181919947266575
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.5644000172615051,
+        0.0,
+        -0.236383989453315
+      ],
+      "normalized_max": [
+        0.5644000172615051,
+        0.11022400110960007,
+        0.236383989453315
+      ],
+      "normalized_size": [
+        1.1288000345230103,
+        0.11022400110960007,
+        0.47276797890663
+      ],
+      "half_height_m": 0.055112000554800034,
+      "footprint_m": [
+        1.1288000345230103,
+        0.47276797890663
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/computerKeyboard.object_config.json",
+      "mass": 10.0,
+      "template_handle": "computerKeyboard"
+    },
+    "computerMouse": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/computerMouse.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/computerMouse.glb",
+      "category": "default",
+      "raw_min": [
+        -0.02484999969601631,
+        0.0,
+        -0.08510379493236542
+      ],
+      "raw_max": [
+        0.02484999969601631,
+        0.023571999743580818,
+        0.0
+      ],
+      "raw_size": [
+        0.04969999939203262,
+        0.023571999743580818,
+        0.08510379493236542
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.09939999878406525,
+        0.0,
+        -0.17020758986473083
+      ],
+      "normalized_max": [
+        0.09939999878406525,
+        0.09428799897432327,
+        0.17020758986473083
+      ],
+      "normalized_size": [
+        0.1987999975681305,
+        0.09428799897432327,
+        0.34041517972946167
+      ],
+      "half_height_m": 0.047143999487161636,
+      "footprint_m": [
+        0.1987999975681305,
+        0.34041517972946167
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/computerMouse.object_config.json",
+      "mass": 10.0,
+      "template_handle": "computerMouse"
+    },
+    "computerScreen": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/computerScreen.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/computerScreen.glb",
+      "category": "default",
+      "raw_min": [
+        -1.4438228216156449e-15,
+        -8.014826700184745e-32,
+        -0.10400399565696716
+      ],
+      "raw_max": [
+        0.39268800616264343,
+        0.29428520798683167,
+        -5.414335713407566e-16
+      ],
+      "raw_size": [
+        0.3926880061626449,
+        0.29428520798683167,
+        0.10400399565696662
+      ],
+      "scale_applied": 3.0582576887122106,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.6004705570559883,
+        0.0,
+        -0.15903550968735478
+      ],
+      "normalized_max": [
+        0.6004705570559883,
+        0.9,
+        0.15903550968735478
+      ],
+      "normalized_size": [
+        1.2009411141119766,
+        0.9,
+        0.31807101937470955
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        1.2009411141119766,
+        0.31807101937470955
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/computerScreen.object_config.json",
+      "mass": 10.0,
+      "template_handle": "computerScreen"
+    },
+    "desk": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/desk.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/desk.glb",
+      "category": "desk",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.3799999952316284
+      ],
+      "raw_max": [
+        0.7244754433631897,
+        0.38440755009651184,
+        0.012299999223480212
+      ],
+      "raw_size": [
+        0.7344754431396723,
+        0.38440755009651184,
+        0.39229999445510866
+      ],
+      "scale_applied": 1.9510542907174955,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.7165007323821457,
+        0.0,
+        -0.38269929371504474
+      ],
+      "normalized_max": [
+        0.7165007323821457,
+        0.75,
+        0.3826992937150447
+      ],
+      "normalized_size": [
+        1.4330014647642915,
+        0.75,
+        0.7653985874300895
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.4330014647642915,
+        0.7653985874300895
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/desk.object_config.json",
+      "mass": 25.0,
+      "template_handle": "desk"
+    },
+    "deskCorner": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/deskCorner.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/deskCorner.glb",
+      "category": "desk",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.9744755029678345
+      ],
+      "raw_max": [
+        0.9744755029678345,
+        0.38440755009651184,
+        0.0
+      ],
+      "raw_size": [
+        0.9744755029678345,
+        0.38440755009651184,
+        0.9744755029678345
+      ],
+      "scale_applied": 1.9510542907174955,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.9506273056322415,
+        0.0,
+        -0.9506273056322415
+      ],
+      "normalized_max": [
+        0.9506273056322415,
+        0.75,
+        0.9506273056322415
+      ],
+      "normalized_size": [
+        1.901254611264483,
+        0.75,
+        1.901254611264483
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.901254611264483,
+        1.901254611264483
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/deskCorner.object_config.json",
+      "mass": 25.0,
+      "template_handle": "deskCorner"
+    },
+    "dryer": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/dryer.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/dryer.glb",
+      "category": "dryer",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.3499999940395355
+      ],
+      "raw_max": [
+        0.39000001549720764,
+        0.4699999988079071,
+        0.030000001192092896
+      ],
+      "raw_size": [
+        0.39000001549720764,
+        0.4699999988079071,
+        0.3799999952316284
+      ],
+      "scale_applied": 2.021276600871382,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.39414895283199103,
+        0.0,
+        -0.3840425493464636
+      ],
+      "normalized_max": [
+        0.39414895283199103,
+        0.95,
+        0.3840425493464636
+      ],
+      "normalized_size": [
+        0.7882979056639821,
+        0.95,
+        0.7680850986929272
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.7882979056639821,
+        0.7680850986929272
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/dryer.object_config.json",
+      "mass": 40.0,
+      "template_handle": "dryer"
+    },
+    "hoodLarge": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/hoodLarge.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/hoodLarge.glb",
+      "category": "default",
+      "raw_min": [
+        -1.4438228216156449e-15,
+        0.0,
+        -0.2849000096321106
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.3695317208766937,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525588,
+        0.3695317208766937,
+        0.2849000096321106
+      ],
+      "scale_applied": 2.4355148669369964,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.5236357051015359,
+        0.0,
+        -0.3469391045247494
+      ],
+      "normalized_max": [
+        0.5236357051015359,
+        0.9,
+        0.3469391045247494
+      ],
+      "normalized_size": [
+        1.0472714102030718,
+        0.9,
+        0.6938782090494988
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        1.0472714102030718,
+        0.6938782090494988
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/hoodLarge.object_config.json",
+      "mass": 10.0,
+      "template_handle": "hoodLarge"
+    },
+    "hoodModern": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/hoodModern.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/hoodModern.glb",
+      "category": "default",
+      "raw_min": [
+        -1.4438228216156449e-15,
+        -0.030000001192092896,
+        -0.2849000096321106
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.3695317208766937,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525588,
+        0.3995317220687866,
+        0.2849000096321106
+      ],
+      "scale_applied": 2.2526371506617155,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.4843169954483287,
+        0.0,
+        -0.32088817296058647
+      ],
+      "normalized_max": [
+        0.4843169954483287,
+        0.8999999999999999,
+        0.32088817296058647
+      ],
+      "normalized_size": [
+        0.9686339908966574,
+        0.8999999999999999,
+        0.6417763459211729
+      ],
+      "half_height_m": 0.44999999999999996,
+      "footprint_m": [
+        0.9686339908966574,
+        0.6417763459211729
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/hoodModern.object_config.json",
+      "mass": 10.0,
+      "template_handle": "hoodModern"
+    },
+    "kitchenBar": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenBar.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenBar.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.41999998688697815,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.41999998688697815,
+        0.20999999344348907
+      ],
+      "scale_applied": 2.142857209760318,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.4607143077619229,
+        0.0,
+        -0.225
+      ],
+      "normalized_max": [
+        0.4607143077619229,
+        0.9,
+        0.225
+      ],
+      "normalized_size": [
+        0.9214286155238458,
+        0.9,
+        0.45
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.9214286155238458,
+        0.45
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenBar.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenBar"
+    },
+    "kitchenBarEnd": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenBarEnd.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenBarEnd.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.1015625,
+        0.41999998688697815,
+        0.0
+      ],
+      "raw_size": [
+        0.1015625,
+        0.41999998688697815,
+        0.20999999344348907
+      ],
+      "scale_applied": 2.142857209760318,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.10881696768314114,
+        0.0,
+        -0.225
+      ],
+      "normalized_max": [
+        0.10881696768314114,
+        0.9,
+        0.225
+      ],
+      "normalized_size": [
+        0.21763393536628228,
+        0.9,
+        0.45
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.21763393536628228,
+        0.45
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenBarEnd.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenBarEnd"
+    },
+    "kitchenBlender": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenBlender.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenBlender.glb",
+      "category": "default",
+      "raw_min": [
+        3.5315752058839855e-10,
+        0.0,
+        -0.10911875218153
+      ],
+      "raw_max": [
+        0.13582616316080093,
+        0.22751998964684247,
+        0.0
+      ],
+      "raw_size": [
+        0.1358261628076434,
+        0.22751998964684247,
+        0.10911875218153
+      ],
+      "scale_applied": 3.955696382533174,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.26864353043577854,
+        0.0,
+        -0.21582032663550607
+      ],
+      "normalized_max": [
+        0.2686435304357785,
+        0.9,
+        0.21582032663550607
+      ],
+      "normalized_size": [
+        0.537287060871557,
+        0.9,
+        0.43164065327101214
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.537287060871557,
+        0.43164065327101214
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenBlender.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenBlender"
+    },
+    "kitchenCabinet": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinet.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinet.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.44999998807907104
+      ],
+      "scale_applied": 2.2222222810910086,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.477777798381853,
+        0.0,
+        -0.49999999999999994
+      ],
+      "normalized_max": [
+        0.477777798381853,
+        0.9999999999999999,
+        0.49999999999999994
+      ],
+      "normalized_size": [
+        0.955555596763706,
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "half_height_m": 0.49999999999999994,
+      "footprint_m": [
+        0.955555596763706,
+        0.9999999999999999
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinet.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinet"
+    },
+    "kitchenCabinetCornerInner": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetCornerInner.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetCornerInner.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.46000000834465027
+      ],
+      "raw_max": [
+        0.46000000834465027,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.46000000834465027,
+        0.44999998807907104,
+        0.46000000834465027
+      ],
+      "scale_applied": 2.2222222810910086,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.5111111339227659,
+        0.0,
+        -0.5111111339227659
+      ],
+      "normalized_max": [
+        0.5111111339227659,
+        0.9999999999999999,
+        0.5111111339227659
+      ],
+      "normalized_size": [
+        1.0222222678455317,
+        0.9999999999999999,
+        1.0222222678455317
+      ],
+      "half_height_m": 0.49999999999999994,
+      "footprint_m": [
+        1.0222222678455317,
+        1.0222222678455317
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetCornerInner.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetCornerInner"
+    },
+    "kitchenCabinetCornerRound": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetCornerRound.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetCornerRound.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.44999998807907104,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.44999998807907104,
+        0.44999998807907104,
+        0.44999998807907104
+      ],
+      "scale_applied": 2.2222222810910086,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.49999999999999994,
+        0.0,
+        -0.49999999999999994
+      ],
+      "normalized_max": [
+        0.49999999999999994,
+        0.9999999999999999,
+        0.49999999999999994
+      ],
+      "normalized_size": [
+        0.9999999999999999,
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "half_height_m": 0.49999999999999994,
+      "footprint_m": [
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetCornerRound.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetCornerRound"
+    },
+    "kitchenCabinetDrawer": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetDrawer.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetDrawer.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.44999998807907104
+      ],
+      "scale_applied": 2.2222222810910086,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.477777798381853,
+        0.0,
+        -0.49999999999999994
+      ],
+      "normalized_max": [
+        0.477777798381853,
+        0.9999999999999999,
+        0.49999999999999994
+      ],
+      "normalized_size": [
+        0.955555596763706,
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "half_height_m": 0.49999999999999994,
+      "footprint_m": [
+        0.955555596763706,
+        0.9999999999999999
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetDrawer.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetDrawer"
+    },
+    "kitchenCabinetUpper": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetUpper.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpper.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.39000001549720764,
+        0.009999999552965164
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.39000001549720764,
+        0.21999999299645423
+      ],
+      "scale_applied": 2.5641024622142865,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.5512820385460165,
+        0.0,
+        -0.28205126186466706
+      ],
+      "normalized_max": [
+        0.5512820385460165,
+        1.0,
+        0.28205126186466706
+      ],
+      "normalized_size": [
+        1.102564077092033,
+        1.0,
+        0.5641025237293341
+      ],
+      "half_height_m": 0.5,
+      "footprint_m": [
+        1.102564077092033,
+        0.5641025237293341
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpper.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetUpper"
+    },
+    "kitchenCabinetUpperCorner": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetUpperCorner.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpperCorner.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.2150000035762787,
+        0.39000001549720764,
+        0.0
+      ],
+      "raw_size": [
+        0.2150000035762787,
+        0.39000001549720764,
+        0.20999999344348907
+      ],
+      "scale_applied": 2.5641024622142865,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.27564101927300827,
+        0.0,
+        -0.26923075012671716
+      ],
+      "normalized_max": [
+        0.27564101927300827,
+        1.0,
+        0.26923075012671716
+      ],
+      "normalized_size": [
+        0.5512820385460165,
+        1.0,
+        0.5384615002534343
+      ],
+      "half_height_m": 0.5,
+      "footprint_m": [
+        0.5512820385460165,
+        0.5384615002534343
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpperCorner.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetUpperCorner"
+    },
+    "kitchenCabinetUpperDouble": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetUpperDouble.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpperDouble.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.39000001549720764,
+        0.009999999552965164
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.39000001549720764,
+        0.21999999299645423
+      ],
+      "scale_applied": 2.5641024622142865,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.5512820385460165,
+        0.0,
+        -0.28205126186466706
+      ],
+      "normalized_max": [
+        0.5512820385460165,
+        1.0,
+        0.28205126186466706
+      ],
+      "normalized_size": [
+        1.102564077092033,
+        1.0,
+        0.5641025237293341
+      ],
+      "half_height_m": 0.5,
+      "footprint_m": [
+        1.102564077092033,
+        0.5641025237293341
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpperDouble.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetUpperDouble"
+    },
+    "kitchenCabinetUpperLow": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCabinetUpperLow.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpperLow.glb",
+      "category": "cabinet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.19500000774860382,
+        0.009999999552965164
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.19500000774860382,
+        0.21999999299645423
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 1.0,
+      "normalized_min": [
+        -0.8600000143051147,
+        0.0,
+        -0.43999998599290846
+      ],
+      "normalized_max": [
+        0.8600000143051147,
+        0.7800000309944153,
+        0.4399999859929085
+      ],
+      "normalized_size": [
+        1.7200000286102295,
+        0.7800000309944153,
+        0.8799999719858169
+      ],
+      "half_height_m": 0.39000001549720764,
+      "footprint_m": [
+        1.7200000286102295,
+        0.8799999719858169
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCabinetUpperLow.object_config.json",
+      "mass": 25.0,
+      "template_handle": "kitchenCabinetUpperLow"
+    },
+    "kitchenCoffeeMachine": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenCoffeeMachine.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCoffeeMachine.glb",
+      "category": "coffee",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.24016705217957496
+      ],
+      "raw_max": [
+        0.1895400075316429,
+        0.17748900577425955,
+        0.0
+      ],
+      "raw_size": [
+        0.1895400075316429,
+        0.17748900577425955,
+        0.24016705217957496
+      ],
+      "scale_applied": 2.253660716927686,
+      "target_height_m": 0.4,
+      "normalized_min": [
+        -0.2135794346301207,
+        0.0,
+        -0.27062752549871494
+      ],
+      "normalized_max": [
+        0.2135794346301207,
+        0.4,
+        0.27062752549871494
+      ],
+      "normalized_size": [
+        0.4271588692602414,
+        0.4,
+        0.5412550509974299
+      ],
+      "half_height_m": 0.2,
+      "footprint_m": [
+        0.4271588692602414,
+        0.5412550509974299
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenCoffeeMachine.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenCoffeeMachine"
+    },
+    "kitchenFridge": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenFridge.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridge.glb",
+      "category": "fridge",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.28193390369415283
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.9200000166893005,
+        0.01000000014901161
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.9200000166893005,
+        0.2919339038431644
+      ],
+      "scale_applied": 1.9565217036380667,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.4206521732792512,
+        0.0,
+        -0.2855875094484698
+      ],
+      "normalized_max": [
+        0.4206521732792512,
+        1.8,
+        0.28558750944846983
+      ],
+      "normalized_size": [
+        0.8413043465585024,
+        1.8,
+        0.5711750188969396
+      ],
+      "half_height_m": 0.9,
+      "footprint_m": [
+        0.8413043465585024,
+        0.5711750188969396
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridge.object_config.json",
+      "mass": 50.0,
+      "template_handle": "kitchenFridge"
+    },
+    "kitchenFridgeBuiltIn": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenFridgeBuiltIn.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridgeBuiltIn.glb",
+      "category": "fridge",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.8687478303909302,
+        1.490116086078075e-10
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.8687478303909302,
+        0.4499999882280826
+      ],
+      "scale_applied": 2.0719476205080283,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.4454687458190882,
+        0.0,
+        -0.4661882024189083
+      ],
+      "normalized_max": [
+        0.4454687458190882,
+        1.7999999999999998,
+        0.46618820241890835
+      ],
+      "normalized_size": [
+        0.8909374916381764,
+        1.7999999999999998,
+        0.9323764048378167
+      ],
+      "half_height_m": 0.8999999999999999,
+      "footprint_m": [
+        0.8909374916381764,
+        0.9323764048378167
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridgeBuiltIn.object_config.json",
+      "mass": 50.0,
+      "template_handle": "kitchenFridgeBuiltIn"
+    },
+    "kitchenFridgeLarge": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenFridgeLarge.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridgeLarge.glb",
+      "category": "fridge",
+      "raw_min": [
+        0.0,
+        -1.0457532666503912e-18,
+        -0.3419339060783386
+      ],
+      "raw_max": [
+        0.5199999809265137,
+        0.9200000166893005,
+        0.06361600056290627
+      ],
+      "raw_size": [
+        0.5199999809265137,
+        0.9200000166893005,
+        0.4055499066412449
+      ],
+      "scale_applied": 1.9565217036380667,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.5086956242870524,
+        0.0,
+        -0.3967335971259937
+      ],
+      "normalized_max": [
+        0.5086956242870524,
+        1.8,
+        0.3967335971259937
+      ],
+      "normalized_size": [
+        1.0173912485741048,
+        1.8,
+        0.7934671942519874
+      ],
+      "half_height_m": 0.9,
+      "footprint_m": [
+        1.0173912485741048,
+        0.7934671942519874
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridgeLarge.object_config.json",
+      "mass": 50.0,
+      "template_handle": "kitchenFridgeLarge"
+    },
+    "kitchenFridgeSmall": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenFridgeSmall.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridgeSmall.glb",
+      "category": "fridge",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.28193390369415283
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.6002463102340698,
+        0.01000000014901161
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.6002463102340698,
+        0.2919339038431644
+      ],
+      "scale_applied": 2.9987689541949516,
+      "target_height_m": 1.8,
+      "normalized_min": [
+        -0.6447353358763481,
+        0.0,
+        -0.43772116376090786
+      ],
+      "normalized_max": [
+        0.6447353358763481,
+        1.8,
+        0.43772116376090797
+      ],
+      "normalized_size": [
+        1.2894706717526963,
+        1.8,
+        0.8754423275218158
+      ],
+      "half_height_m": 0.9,
+      "footprint_m": [
+        1.2894706717526963,
+        0.8754423275218158
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenFridgeSmall.object_config.json",
+      "mass": 50.0,
+      "template_handle": "kitchenFridgeSmall"
+    },
+    "kitchenMicrowave": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenMicrowave.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenMicrowave.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.2199999839067459
+      ],
+      "raw_max": [
+        0.28999999165534973,
+        0.17999999225139618,
+        0.009999999776482492
+      ],
+      "raw_size": [
+        0.28999999165534973,
+        0.17999999225139618,
+        0.2299999836832284
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.5799999833106995,
+        0.0,
+        -0.4599999673664568
+      ],
+      "normalized_max": [
+        0.5799999833106995,
+        0.7199999690055847,
+        0.45999996736645676
+      ],
+      "normalized_size": [
+        1.159999966621399,
+        0.7199999690055847,
+        0.9199999347329135
+      ],
+      "half_height_m": 0.35999998450279236,
+      "footprint_m": [
+        1.159999966621399,
+        0.9199999347329135
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenMicrowave.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenMicrowave"
+    },
+    "kitchenSink": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenSink.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenSink.glb",
+      "category": "sink",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.4899999797344208,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.4899999797344208,
+        0.44999998807907104
+      ],
+      "scale_applied": 1.7346939492950564,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.3729592053021861,
+        0.0,
+        -0.390306128251806
+      ],
+      "normalized_max": [
+        0.3729592053021861,
+        0.85,
+        0.390306128251806
+      ],
+      "normalized_size": [
+        0.7459184106043723,
+        0.85,
+        0.780612256503612
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        0.7459184106043723,
+        0.780612256503612
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenSink.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenSink"
+    },
+    "kitchenStove": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenStove.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenStove.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.44999998807907104
+      ],
+      "scale_applied": 2.0000000529819077,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.4300000185436677,
+        0.0,
+        -0.44999999999999996
+      ],
+      "normalized_max": [
+        0.4300000185436677,
+        0.8999999999999999,
+        0.44999999999999996
+      ],
+      "normalized_size": [
+        0.8600000370873354,
+        0.8999999999999999,
+        0.8999999999999999
+      ],
+      "half_height_m": 0.44999999999999996,
+      "footprint_m": [
+        0.8600000370873354,
+        0.8999999999999999
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenStove.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenStove"
+    },
+    "kitchenStoveElectric": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/kitchenStoveElectric.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenStoveElectric.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44999998807907104
+      ],
+      "raw_max": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.0
+      ],
+      "raw_size": [
+        0.4300000071525574,
+        0.44999998807907104,
+        0.44999998807907104
+      ],
+      "scale_applied": 2.0000000529819077,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.4300000185436677,
+        0.0,
+        -0.44999999999999996
+      ],
+      "normalized_max": [
+        0.4300000185436677,
+        0.8999999999999999,
+        0.44999999999999996
+      ],
+      "normalized_size": [
+        0.8600000370873354,
+        0.8999999999999999,
+        0.8999999999999999
+      ],
+      "half_height_m": 0.44999999999999996,
+      "footprint_m": [
+        0.8600000370873354,
+        0.8999999999999999
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/kitchenStoveElectric.object_config.json",
+      "mass": 10.0,
+      "template_handle": "kitchenStoveElectric"
+    },
+    "lampRoundFloor": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/lampRoundFloor.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/lampRoundFloor.glb",
+      "category": "lamp",
+      "raw_min": [
+        -0.016019709408283234,
+        0.0,
+        -0.14778000116348267
+      ],
+      "raw_max": [
+        0.13601970672607422,
+        0.8600000143051147,
+        0.027779998257756233
+      ],
+      "raw_size": [
+        0.15203941613435745,
+        0.8600000143051147,
+        0.1755599994212389
+      ],
+      "scale_applied": 1.7441860174990917,
+      "target_height_m": 1.5,
+      "normalized_min": [
+        -0.13259251186513604,
+        0.0,
+        -0.15310464811133676
+      ],
+      "normalized_max": [
+        0.13259251186513604,
+        1.5,
+        0.15310464811133676
+      ],
+      "normalized_size": [
+        0.2651850237302721,
+        1.5,
+        0.3062092962226735
+      ],
+      "half_height_m": 0.75,
+      "footprint_m": [
+        0.2651850237302721,
+        0.3062092962226735
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/lampRoundFloor.object_config.json",
+      "mass": 4.0,
+      "template_handle": "lampRoundFloor"
+    },
+    "lampRoundTable": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/lampRoundTable.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/lampRoundTable.glb",
+      "category": "table",
+      "raw_min": [
+        -0.016019709408283234,
+        0.0,
+        -0.14778000116348267
+      ],
+      "raw_max": [
+        0.13601970672607422,
+        0.31424999237060547,
+        0.027779998257756233
+      ],
+      "raw_size": [
+        0.15203941613435745,
+        0.31424999237060547,
+        0.1755599994212389
+      ],
+      "scale_applied": 2.386634902811708,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.18143128857468552,
+        0.0,
+        -0.209498811078166
+      ],
+      "normalized_max": [
+        0.18143128857468552,
+        0.75,
+        0.209498811078166
+      ],
+      "normalized_size": [
+        0.36286257714937104,
+        0.75,
+        0.418997622156332
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        0.36286257714937104,
+        0.418997622156332
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/lampRoundTable.object_config.json",
+      "mass": 20.0,
+      "template_handle": "lampRoundTable"
+    },
+    "lampSquareCeiling": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/lampSquareCeiling.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/lampSquareCeiling.glb",
+      "category": "lamp",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.12000000476837158
+      ],
+      "raw_max": [
+        0.12000000476837158,
+        0.23000000417232513,
+        0.0
+      ],
+      "raw_size": [
+        0.12000000476837158,
+        0.23000000417232513,
+        0.12000000476837158
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 1.5,
+      "normalized_min": [
+        -0.24000000953674316,
+        0.0,
+        -0.24000000953674316
+      ],
+      "normalized_max": [
+        0.24000000953674316,
+        0.9200000166893005,
+        0.24000000953674316
+      ],
+      "normalized_size": [
+        0.48000001907348633,
+        0.9200000166893005,
+        0.48000001907348633
+      ],
+      "half_height_m": 0.46000000834465027,
+      "footprint_m": [
+        0.48000001907348633,
+        0.48000001907348633
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/lampSquareCeiling.object_config.json",
+      "mass": 4.0,
+      "template_handle": "lampSquareCeiling"
+    },
+    "lampSquareFloor": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/lampSquareFloor.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/lampSquareFloor.glb",
+      "category": "lamp",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.12000000476837158
+      ],
+      "raw_max": [
+        0.12000000476837158,
+        0.8600000143051147,
+        0.0
+      ],
+      "raw_size": [
+        0.12000000476837158,
+        0.8600000143051147,
+        0.12000000476837158
+      ],
+      "scale_applied": 1.7441860174990917,
+      "target_height_m": 1.5,
+      "normalized_min": [
+        -0.10465116520840903,
+        0.0,
+        -0.10465116520840903
+      ],
+      "normalized_max": [
+        0.10465116520840903,
+        1.5,
+        0.10465116520840903
+      ],
+      "normalized_size": [
+        0.20930233041681806,
+        1.5,
+        0.20930233041681806
+      ],
+      "half_height_m": 0.75,
+      "footprint_m": [
+        0.20930233041681806,
+        0.20930233041681806
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/lampSquareFloor.object_config.json",
+      "mass": 4.0,
+      "template_handle": "lampSquareFloor"
+    },
+    "lampSquareTable": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/lampSquareTable.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/lampSquareTable.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.12000000476837158
+      ],
+      "raw_max": [
+        0.12000000476837158,
+        0.28999999165534973,
+        0.0
+      ],
+      "raw_size": [
+        0.12000000476837158,
+        0.28999999165534973,
+        0.12000000476837158
+      ],
+      "scale_applied": 2.58620697096894,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.15517242442413431,
+        0.0,
+        -0.15517242442413431
+      ],
+      "normalized_max": [
+        0.15517242442413431,
+        0.75,
+        0.15517242442413431
+      ],
+      "normalized_size": [
+        0.31034484884826863,
+        0.75,
+        0.31034484884826863
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        0.31034484884826863,
+        0.31034484884826863
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/lampSquareTable.object_config.json",
+      "mass": 20.0,
+      "template_handle": "lampSquareTable"
+    },
+    "lampWall": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/lampWall.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/lampWall.glb",
+      "category": "lamp",
+      "raw_min": [
+        -0.11331768751144408,
+        0.0,
+        0.0
+      ],
+      "raw_max": [
+        0.11331768751144408,
+        0.09279999792575835,
+        0.15033600389957427
+      ],
+      "raw_size": [
+        0.22663537502288816,
+        0.09279999792575835,
+        0.15033600389957427
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 1.5,
+      "normalized_min": [
+        -0.4532707500457763,
+        0.0,
+        -0.30067200779914854
+      ],
+      "normalized_max": [
+        0.4532707500457763,
+        0.3711999917030334,
+        0.30067200779914854
+      ],
+      "normalized_size": [
+        0.9065415000915527,
+        0.3711999917030334,
+        0.6013440155982971
+      ],
+      "half_height_m": 0.1855999958515167,
+      "footprint_m": [
+        0.9065415000915527,
+        0.6013440155982971
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/lampWall.object_config.json",
+      "mass": 4.0,
+      "template_handle": "lampWall"
+    },
+    "laptop": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/laptop.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/laptop.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.24006515264511108
+      ],
+      "raw_max": [
+        0.2640000104904175,
+        0.16180940508842467,
+        0.0
+      ],
+      "raw_size": [
+        0.2640000104904175,
+        0.16180940508842467,
+        0.24006515264511108
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.528000020980835,
+        0.0,
+        -0.48013030529022216
+      ],
+      "normalized_max": [
+        0.528000020980835,
+        0.6472376203536987,
+        0.48013030529022216
+      ],
+      "normalized_size": [
+        1.05600004196167,
+        0.6472376203536987,
+        0.9602606105804443
+      ],
+      "half_height_m": 0.32361881017684935,
+      "footprint_m": [
+        1.05600004196167,
+        0.9602606105804443
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/laptop.object_config.json",
+      "mass": 10.0,
+      "template_handle": "laptop"
+    },
+    "loungeChair": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeChair.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeChair.glb",
+      "category": "lounge",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.4100000262260437
+      ],
+      "raw_max": [
+        0.4899999797344208,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.4899999797344208,
+        0.46000000834465027,
+        0.4100000262260437
+      ],
+      "scale_applied": 1.8478260534359519,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.45271736436817556,
+        0.0,
+        -0.37880436518495353
+      ],
+      "normalized_max": [
+        0.45271736436817556,
+        0.85,
+        0.37880436518495353
+      ],
+      "normalized_size": [
+        0.9054347287363511,
+        0.85,
+        0.7576087303699071
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        0.9054347287363511,
+        0.7576087303699071
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeChair.object_config.json",
+      "mass": 30.0,
+      "template_handle": "loungeChair"
+    },
+    "loungeChairRelax": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeChairRelax.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeChairRelax.glb",
+      "category": "lounge",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.674692690372467
+      ],
+      "raw_max": [
+        0.4899999797344208,
+        0.6299999952316284,
+        0.0
+      ],
+      "raw_size": [
+        0.4899999797344208,
+        0.6299999952316284,
+        0.674692690372467
+      ],
+      "scale_applied": 1.3492063594182813,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.33055554438625473,
+        0.0,
+        -0.45514983425178096
+      ],
+      "normalized_max": [
+        0.33055554438625473,
+        0.85,
+        0.45514983425178096
+      ],
+      "normalized_size": [
+        0.6611110887725095,
+        0.85,
+        0.9102996685035619
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        0.6611110887725095,
+        0.9102996685035619
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeChairRelax.object_config.json",
+      "mass": 30.0,
+      "template_handle": "loungeChairRelax"
+    },
+    "loungeDesignChair": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeDesignChair.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeDesignChair.glb",
+      "category": "lounge",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.4100000262260437
+      ],
+      "raw_max": [
+        0.7295953035354614,
+        0.4000000059604645,
+        0.0
+      ],
+      "raw_size": [
+        0.7295953035354614,
+        0.4000000059604645,
+        0.4100000262260437
+      ],
+      "scale_applied": 2.124999968335033,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.7751949984551221,
+        0.0,
+        -0.4356250213738528
+      ],
+      "normalized_max": [
+        0.7751949984551221,
+        0.85,
+        0.4356250213738528
+      ],
+      "normalized_size": [
+        1.5503899969102442,
+        0.85,
+        0.8712500427477056
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        1.5503899969102442,
+        0.8712500427477056
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeDesignChair.object_config.json",
+      "mass": 30.0,
+      "template_handle": "loungeDesignChair"
+    },
+    "loungeDesignSofa": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeDesignSofa.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeDesignSofa.glb",
+      "category": "sofa",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.4100000262260437
+      ],
+      "raw_max": [
+        1.1200000047683716,
+        0.4000000059604645,
+        0.0
+      ],
+      "raw_size": [
+        1.1200000047683716,
+        0.4000000059604645,
+        0.4100000262260437
+      ],
+      "scale_applied": 2.124999968335033,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -1.1899999873340132,
+        0.0,
+        -0.4356250213738528
+      ],
+      "normalized_max": [
+        1.1899999873340132,
+        0.85,
+        0.4356250213738528
+      ],
+      "normalized_size": [
+        2.3799999746680265,
+        0.85,
+        0.8712500427477056
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        2.3799999746680265,
+        0.8712500427477056
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeDesignSofa.object_config.json",
+      "mass": 35.0,
+      "template_handle": "loungeDesignSofa"
+    },
+    "loungeDesignSofaCorner": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeDesignSofaCorner.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeDesignSofaCorner.glb",
+      "category": "sofa",
+      "raw_min": [
+        0.0,
+        -4.45965180756458e-09,
+        -1.3498284816741943
+      ],
+      "raw_max": [
+        1.3498284816741943,
+        0.4000000059604645,
+        0.0
+      ],
+      "raw_size": [
+        1.3498284816741943,
+        0.4000000104201163,
+        1.3498284816741943
+      ],
+      "scale_applied": 2.124999944643134,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -1.4341927244176942,
+        0.0,
+        -1.4341927244176942
+      ],
+      "normalized_max": [
+        1.4341927244176942,
+        0.8500000000000001,
+        1.4341927244176942
+      ],
+      "normalized_size": [
+        2.8683854488353884,
+        0.8500000000000001,
+        2.8683854488353884
+      ],
+      "half_height_m": 0.42500000000000004,
+      "footprint_m": [
+        2.8683854488353884,
+        2.8683854488353884
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeDesignSofaCorner.object_config.json",
+      "mass": 35.0,
+      "template_handle": "loungeDesignSofaCorner"
+    },
+    "loungeSofa": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeSofa.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofa.glb",
+      "category": "sofa",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.4100000262260437
+      ],
+      "raw_max": [
+        0.9799999594688416,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.9799999594688416,
+        0.46000000834465027,
+        0.4100000262260437
+      ],
+      "scale_applied": 1.8478260534359519,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.9054347287363511,
+        0.0,
+        -0.37880436518495353
+      ],
+      "normalized_max": [
+        0.9054347287363511,
+        0.85,
+        0.37880436518495353
+      ],
+      "normalized_size": [
+        1.8108694574727022,
+        0.85,
+        0.7576087303699071
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        1.8108694574727022,
+        0.7576087303699071
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofa.object_config.json",
+      "mass": 35.0,
+      "template_handle": "loungeSofa"
+    },
+    "loungeSofaCorner": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeSofaCorner.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofaCorner.glb",
+      "category": "sofa",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.9799999594688416
+      ],
+      "raw_max": [
+        0.9799999594688416,
+        0.46000000834465027,
+        0.0
+      ],
+      "raw_size": [
+        0.9799999594688416,
+        0.46000000834465027,
+        0.9799999594688416
+      ],
+      "scale_applied": 1.8478260534359519,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.9054347287363511,
+        0.0,
+        -0.9054347287363511
+      ],
+      "normalized_max": [
+        0.9054347287363511,
+        0.85,
+        0.9054347287363511
+      ],
+      "normalized_size": [
+        1.8108694574727022,
+        0.85,
+        1.8108694574727022
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        1.8108694574727022,
+        1.8108694574727022
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofaCorner.object_config.json",
+      "mass": 35.0,
+      "template_handle": "loungeSofaCorner"
+    },
+    "loungeSofaLong": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeSofaLong.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofaLong.glb",
+      "category": "sofa",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.4100000262260437
+      ],
+      "raw_max": [
+        0.9799999594688416,
+        0.46000000834465027,
+        0.4100000262260437
+      ],
+      "raw_size": [
+        0.9799999594688416,
+        0.46000000834465027,
+        0.8200000524520874
+      ],
+      "scale_applied": 1.8478260534359519,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.9054347287363511,
+        0.0,
+        -0.7576087303699071
+      ],
+      "normalized_max": [
+        0.9054347287363511,
+        0.85,
+        0.7576087303699071
+      ],
+      "normalized_size": [
+        1.8108694574727022,
+        0.85,
+        1.5152174607398141
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        1.8108694574727022,
+        1.5152174607398141
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofaLong.object_config.json",
+      "mass": 35.0,
+      "template_handle": "loungeSofaLong"
+    },
+    "loungeSofaOttoman": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/loungeSofaOttoman.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofaOttoman.glb",
+      "category": "sofa",
+      "raw_min": [
+        0.4699999988079071,
+        0.0,
+        -0.03999999910593033
+      ],
+      "raw_max": [
+        0.9098285436630249,
+        0.23000000417232513,
+        0.4100000262260437
+      ],
+      "raw_size": [
+        0.4398285448551178,
+        0.23000000417232513,
+        0.45000002533197403
+      ],
+      "scale_applied": 3.6956521068719037,
+      "target_height_m": 0.85,
+      "normalized_min": [
+        -0.8127266442281098,
+        0.0,
+        -0.8315217708552599
+      ],
+      "normalized_max": [
+        0.8127266442281098,
+        0.85,
+        0.8315217708552599
+      ],
+      "normalized_size": [
+        1.6254532884562196,
+        0.85,
+        1.6630435417105198
+      ],
+      "half_height_m": 0.425,
+      "footprint_m": [
+        1.6254532884562196,
+        1.6630435417105198
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/loungeSofaOttoman.object_config.json",
+      "mass": 35.0,
+      "template_handle": "loungeSofaOttoman"
+    },
+    "pillow": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/pillow.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/pillow.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.08848358690738678
+      ],
+      "raw_max": [
+        0.23000000417232513,
+        0.22216293215751648,
+        0.0
+      ],
+      "raw_size": [
+        0.23000000417232513,
+        0.22216293215751648,
+        0.08848358690738678
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.46000000834465027,
+        0.0,
+        -0.17696717381477356
+      ],
+      "normalized_max": [
+        0.46000000834465027,
+        0.8886517286300659,
+        0.17696717381477356
+      ],
+      "normalized_size": [
+        0.9200000166893005,
+        0.8886517286300659,
+        0.3539343476295471
+      ],
+      "half_height_m": 0.44432586431503296,
+      "footprint_m": [
+        0.9200000166893005,
+        0.3539343476295471
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/pillow.object_config.json",
+      "mass": 10.0,
+      "template_handle": "pillow"
+    },
+    "pillowBlue": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/pillowBlue.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/pillowBlue.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.06338994950056076
+      ],
+      "raw_max": [
+        0.23000000417232513,
+        0.1285122036933899,
+        0.0
+      ],
+      "raw_size": [
+        0.23000000417232513,
+        0.1285122036933899,
+        0.06338994950056076
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.46000000834465027,
+        0.0,
+        -0.12677989900112152
+      ],
+      "normalized_max": [
+        0.46000000834465027,
+        0.5140488147735596,
+        0.12677989900112152
+      ],
+      "normalized_size": [
+        0.9200000166893005,
+        0.5140488147735596,
+        0.25355979800224304
+      ],
+      "half_height_m": 0.2570244073867798,
+      "footprint_m": [
+        0.9200000166893005,
+        0.25355979800224304
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/pillowBlue.object_config.json",
+      "mass": 10.0,
+      "template_handle": "pillowBlue"
+    },
+    "pillowBlueLong": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/pillowBlueLong.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/pillowBlueLong.glb",
+      "category": "default",
+      "raw_min": [
+        -0.12999999523162842,
+        -3.609557054039112e-16,
+        -0.08848358690738678
+      ],
+      "raw_max": [
+        0.3865755498409271,
+        0.22216293215751648,
+        0.0
+      ],
+      "raw_size": [
+        0.5165755450725555,
+        0.22216293215751684,
+        0.08848358690738678
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -1.033151090145111,
+        0.0,
+        -0.17696717381477356
+      ],
+      "normalized_max": [
+        1.033151090145111,
+        0.8886517286300674,
+        0.17696717381477356
+      ],
+      "normalized_size": [
+        2.066302180290222,
+        0.8886517286300674,
+        0.3539343476295471
+      ],
+      "half_height_m": 0.4443258643150337,
+      "footprint_m": [
+        2.066302180290222,
+        0.3539343476295471
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/pillowBlueLong.object_config.json",
+      "mass": 10.0,
+      "template_handle": "pillowBlueLong"
+    },
+    "pillowLong": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/pillowLong.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/pillowLong.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        -3.609557054039112e-16,
+        -0.08848358690738678
+      ],
+      "raw_max": [
+        0.3865755498409271,
+        0.22216293215751648,
+        0.0
+      ],
+      "raw_size": [
+        0.3865755498409271,
+        0.22216293215751684,
+        0.08848358690738678
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.7731510996818542,
+        0.0,
+        -0.17696717381477356
+      ],
+      "normalized_max": [
+        0.7731510996818542,
+        0.8886517286300674,
+        0.17696717381477356
+      ],
+      "normalized_size": [
+        1.5463021993637085,
+        0.8886517286300674,
+        0.3539343476295471
+      ],
+      "half_height_m": 0.4443258643150337,
+      "footprint_m": [
+        1.5463021993637085,
+        0.3539343476295471
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/pillowLong.object_config.json",
+      "mass": 10.0,
+      "template_handle": "pillowLong"
+    },
+    "plantSmall1": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/plantSmall1.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/plantSmall1.glb",
+      "category": "plant",
+      "raw_min": [
+        -0.04733036459135887,
+        0.0,
+        -0.04733036546563366
+      ],
+      "raw_max": [
+        0.04733036459135887,
+        0.14000000059604645,
+        0.04733036546563366
+      ],
+      "raw_size": [
+        0.09466072918271774,
+        0.14000000059604645,
+        0.09466073093126733
+      ],
+      "scale_applied": 3.2142857006009744,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.1521333141102355,
+        0.0,
+        -0.15213331692040447
+      ],
+      "normalized_max": [
+        0.1521333141102355,
+        0.45,
+        0.15213331692040447
+      ],
+      "normalized_size": [
+        0.304266628220471,
+        0.45,
+        0.30426663384080893
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.304266628220471,
+        0.30426663384080893
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/plantSmall1.object_config.json",
+      "mass": 3.0,
+      "template_handle": "plantSmall1"
+    },
+    "plantSmall2": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/plantSmall2.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/plantSmall2.glb",
+      "category": "plant",
+      "raw_min": [
+        -0.04733036459135887,
+        0.0,
+        -0.04733036546563366
+      ],
+      "raw_max": [
+        0.04733036459135887,
+        0.14000000059604645,
+        0.04733036546563366
+      ],
+      "raw_size": [
+        0.09466072918271774,
+        0.14000000059604645,
+        0.09466073093126733
+      ],
+      "scale_applied": 3.2142857006009744,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.1521333141102355,
+        0.0,
+        -0.15213331692040447
+      ],
+      "normalized_max": [
+        0.1521333141102355,
+        0.45,
+        0.15213331692040447
+      ],
+      "normalized_size": [
+        0.304266628220471,
+        0.45,
+        0.30426663384080893
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.304266628220471,
+        0.30426663384080893
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/plantSmall2.object_config.json",
+      "mass": 3.0,
+      "template_handle": "plantSmall2"
+    },
+    "plantSmall3": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/plantSmall3.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/plantSmall3.glb",
+      "category": "plant",
+      "raw_min": [
+        -0.04899999917772119,
+        0.0,
+        -0.0424352449679584
+      ],
+      "raw_max": [
+        0.04899999917772119,
+        0.14499999582767487,
+        0.0424352449679584
+      ],
+      "raw_size": [
+        0.09799999835544237,
+        0.14499999582767487,
+        0.0848704899359168
+      ],
+      "scale_applied": 3.1034483651627283,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.15206896734107384,
+        0.0,
+        -0.13169559162109037
+      ],
+      "normalized_max": [
+        0.15206896734107384,
+        0.44999999999999996,
+        0.13169559162109037
+      ],
+      "normalized_size": [
+        0.30413793468214767,
+        0.44999999999999996,
+        0.26339118324218075
+      ],
+      "half_height_m": 0.22499999999999998,
+      "footprint_m": [
+        0.30413793468214767,
+        0.26339118324218075
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/plantSmall3.object_config.json",
+      "mass": 3.0,
+      "template_handle": "plantSmall3"
+    },
+    "pottedPlant": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/pottedPlant.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/pottedPlant.glb",
+      "category": "plant",
+      "raw_min": [
+        -0.10602964,
+        0.0,
+        -0.12073097376031036
+      ],
+      "raw_max": [
+        0.10602963431583405,
+        0.6540167939567566,
+        0.1207309738
+      ],
+      "raw_size": [
+        0.21205927431583405,
+        0.6540167939567566,
+        0.24146194756031036
+      ],
+      "scale_applied": 0.6880557260273562,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.07295429897510775,
+        0.0,
+        -0.08306963781829438
+      ],
+      "normalized_max": [
+        0.07295429897510775,
+        0.45,
+        0.08306963781829438
+      ],
+      "normalized_size": [
+        0.1459085979502155,
+        0.45,
+        0.16613927563658876
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.1459085979502155,
+        0.16613927563658876
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/pottedPlant.object_config.json",
+      "mass": 3.0,
+      "template_handle": "pottedPlant"
+    },
+    "radio": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/radio.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/radio.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.09750000387430191
+      ],
+      "raw_max": [
+        0.3149999976158142,
+        0.228191077709198,
+        0.0
+      ],
+      "raw_size": [
+        0.3149999976158142,
+        0.228191077709198,
+        0.09750000387430191
+      ],
+      "scale_applied": 3.9440630590602734,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.6211899271003035,
+        0.0,
+        -0.19227308176943386
+      ],
+      "normalized_max": [
+        0.6211899271003035,
+        0.9,
+        0.19227308176943386
+      ],
+      "normalized_size": [
+        1.242379854200607,
+        0.9,
+        0.3845461635388677
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        1.242379854200607,
+        0.3845461635388677
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/radio.object_config.json",
+      "mass": 10.0,
+      "template_handle": "radio"
+    },
+    "shower": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/shower.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/shower.glb",
+      "category": "default",
+      "raw_min": [
+        -0.5617919927080053,
+        0.0,
+        -0.5617920120722791
+      ],
+      "raw_max": [
+        1.9364273847239562e-08,
+        1.0940332029104234,
+        0.019999996847078136
+      ],
+      "raw_size": [
+        0.5617920120722791,
+        1.0940332029104234,
+        0.5817920089193572
+      ],
+      "scale_applied": 0.8226441369473589,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.23107745245756017,
+        0.0,
+        -0.2393038925301674
+      ],
+      "normalized_max": [
+        0.23107745245756017,
+        0.9,
+        0.23930389253016743
+      ],
+      "normalized_size": [
+        0.46215490491512035,
+        0.9,
+        0.47860778506033486
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.46215490491512035,
+        0.47860778506033486
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/shower.object_config.json",
+      "mass": 10.0,
+      "template_handle": "shower"
+    },
+    "showerRound": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/showerRound.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/showerRound.glb",
+      "category": "default",
+      "raw_min": [
+        -7.219114e-16,
+        0.0,
+        -0.5617920160293579
+      ],
+      "raw_max": [
+        0.5617920160293579,
+        1.0940333604812622,
+        0.0
+      ],
+      "raw_size": [
+        0.5617920160293587,
+        1.0940333604812622,
+        0.5617920160293579
+      ],
+      "scale_applied": 0.8226440184640188,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.231077420803697,
+        0.0,
+        -0.23107742080369673
+      ],
+      "normalized_max": [
+        0.23107742080369706,
+        0.9,
+        0.23107742080369673
+      ],
+      "normalized_size": [
+        0.46215484160739406,
+        0.9,
+        0.46215484160739345
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.46215484160739406,
+        0.46215484160739345
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/showerRound.object_config.json",
+      "mass": 10.0,
+      "template_handle": "showerRound"
+    },
+    "sideTable": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/sideTable.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/sideTable.glb",
+      "category": "sideTable",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.5244754552841187,
+        0.38440755009651184,
+        0.009999999776482582
+      ],
+      "raw_size": [
+        0.5344754550606012,
+        0.38440755009651184,
+        0.21999999321997166
+      ],
+      "scale_applied": 1.4307731465261635,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.38235656428902975,
+        0.0,
+        -0.15738504126753675
+      ],
+      "normalized_max": [
+        0.38235656428902975,
+        0.55,
+        0.15738504126753675
+      ],
+      "normalized_size": [
+        0.7647131285780595,
+        0.55,
+        0.3147700825350735
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.7647131285780595,
+        0.3147700825350735
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/sideTable.object_config.json",
+      "mass": 10.0,
+      "template_handle": "sideTable"
+    },
+    "sideTableDrawers": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/sideTableDrawers.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/sideTableDrawers.glb",
+      "category": "sideTable",
+      "raw_min": [
+        -0.009999999776482582,
+        0.0,
+        -0.20999999344348907
+      ],
+      "raw_max": [
+        0.5244754552841187,
+        0.38440755009651184,
+        0.012299999223480212
+      ],
+      "raw_size": [
+        0.5344754550606012,
+        0.38440755009651184,
+        0.2222999926669693
+      ],
+      "scale_applied": 1.4307731465261635,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.38235656428902975,
+        0.0,
+        -0.15903042999043135
+      ],
+      "normalized_max": [
+        0.38235656428902975,
+        0.55,
+        0.15903042999043135
+      ],
+      "normalized_size": [
+        0.7647131285780595,
+        0.55,
+        0.3180608599808627
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.7647131285780595,
+        0.3180608599808627
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/sideTableDrawers.object_config.json",
+      "mass": 10.0,
+      "template_handle": "sideTableDrawers"
+    },
+    "speaker": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/speaker.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/speaker.glb",
+      "category": "default",
+      "raw_min": [
+        -1.0828671426815132e-15,
+        1.6919799104398645e-17,
+        -0.14800000190734863
+      ],
+      "raw_max": [
+        0.14800000190734863,
+        0.6363999843597412,
+        -3.609557054039112e-16
+      ],
+      "raw_size": [
+        0.14800000190734972,
+        0.6363999843597412,
+        0.14800000190734827
+      ],
+      "scale_applied": 1.4142049373327015,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.1046511667113116,
+        0.0,
+        -0.10465116671131058
+      ],
+      "normalized_max": [
+        0.1046511667113116,
+        0.9,
+        0.10465116671131058
+      ],
+      "normalized_size": [
+        0.2093023334226232,
+        0.9,
+        0.20930233342262117
+      ],
+      "half_height_m": 0.45,
+      "footprint_m": [
+        0.2093023334226232,
+        0.20930233342262117
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/speaker.object_config.json",
+      "mass": 10.0,
+      "template_handle": "speaker"
+    },
+    "speakerSmall": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/speakerSmall.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/speakerSmall.glb",
+      "category": "default",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.13319998979568481
+      ],
+      "raw_max": [
+        0.14800000190734863,
+        0.2979796528816223,
+        0.0
+      ],
+      "raw_size": [
+        0.14800000190734863,
+        0.2979796528816223,
+        0.13319998979568481
+      ],
+      "scale_applied": 3.0203404537743417,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.2235051964597224,
+        0.0,
+        -0.2011546588111182
+      ],
+      "normalized_max": [
+        0.2235051964597224,
+        0.8999999999999999,
+        0.2011546588111182
+      ],
+      "normalized_size": [
+        0.4470103929194448,
+        0.8999999999999999,
+        0.4023093176222364
+      ],
+      "half_height_m": 0.44999999999999996,
+      "footprint_m": [
+        0.4470103929194448,
+        0.4023093176222364
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/speakerSmall.object_config.json",
+      "mass": 10.0,
+      "template_handle": "speakerSmall"
+    },
+    "stoolBar": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/stoolBar.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/stoolBar.glb",
+      "category": "stool",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.2298777848482132
+      ],
+      "raw_max": [
+        0.2654399871826172,
+        0.4350000023841858,
+        0.0
+      ],
+      "raw_size": [
+        0.2654399871826172,
+        0.4350000023841858,
+        0.2298777848482132
+      ],
+      "scale_applied": 1.724137921584678,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.22882757390325056,
+        0.0,
+        -0.19817050309334402
+      ],
+      "normalized_max": [
+        0.22882757390325056,
+        0.75,
+        0.19817050309334402
+      ],
+      "normalized_size": [
+        0.45765514780650113,
+        0.75,
+        0.39634100618668805
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        0.45765514780650113,
+        0.39634100618668805
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/stoolBar.object_config.json",
+      "mass": 5.0,
+      "template_handle": "stoolBar"
+    },
+    "stoolBarSquare": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/stoolBarSquare.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/stoolBarSquare.glb",
+      "category": "stool",
+      "raw_min": [
+        0.055970001965761185,
+        0.0,
+        -0.18875089287757874
+      ],
+      "raw_max": [
+        0.2094699889421463,
+        0.4049999713897705,
+        -0.041126884520053864
+      ],
+      "raw_size": [
+        0.15349998697638512,
+        0.4049999713897705,
+        0.14762400835752487
+      ],
+      "scale_applied": 1.8518519826713833,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.14212962761112516,
+        0.0,
+        -0.13668890628338964
+      ],
+      "normalized_max": [
+        0.14212962761112516,
+        0.75,
+        0.13668890628338964
+      ],
+      "normalized_size": [
+        0.2842592552222503,
+        0.75,
+        0.2733778125667793
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        0.2842592552222503,
+        0.2733778125667793
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/stoolBarSquare.object_config.json",
+      "mass": 5.0,
+      "template_handle": "stoolBarSquare"
+    },
+    "table": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/table.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/table.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44737333059310913
+      ],
+      "raw_max": [
+        0.8414879441261292,
+        0.3267339766025543,
+        0.0
+      ],
+      "raw_size": [
+        0.8414879441261292,
+        0.3267339766025543,
+        0.44737333059310913
+      ],
+      "scale_applied": 2.2954453889327673,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.9657948105934187,
+        0.0,
+        -0.5134605244207234
+      ],
+      "normalized_max": [
+        0.9657948105934187,
+        0.75,
+        0.5134605244207234
+      ],
+      "normalized_size": [
+        1.9315896211868373,
+        0.75,
+        1.0269210488414469
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.9315896211868373,
+        1.0269210488414469
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/table.object_config.json",
+      "mass": 20.0,
+      "template_handle": "table"
+    },
+    "tableCloth": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCloth.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCloth.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44737333059310913
+      ],
+      "raw_max": [
+        0.8414879441261292,
+        0.3267339766025543,
+        1.2813927978590212e-13
+      ],
+      "raw_size": [
+        0.8414879441261292,
+        0.3267339766025543,
+        0.44737333059323725
+      ],
+      "scale_applied": 2.2954453889327673,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.9657948105934187,
+        0.0,
+        -0.5134605244208704
+      ],
+      "normalized_max": [
+        0.9657948105934187,
+        0.75,
+        0.5134605244208705
+      ],
+      "normalized_size": [
+        1.9315896211868373,
+        0.75,
+        1.026921048841741
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.9315896211868373,
+        1.026921048841741
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCloth.object_config.json",
+      "mass": 20.0,
+      "template_handle": "tableCloth"
+    },
+    "tableCoffee": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCoffee.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffee.glb",
+      "category": "coffee",
+      "raw_min": [
+        -0.4609960913658142,
+        -3.609557054039112e-16,
+        -0.30000001192092896
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.23000000417232513,
+        0.10000000149011612
+      ],
+      "raw_size": [
+        0.6609960943460464,
+        0.2300000041723255,
+        0.4000000134110451
+      ],
+      "scale_applied": 1.7391304032338344,
+      "target_height_m": 0.4,
+      "normalized_min": [
+        -0.5747792020480147,
+        0.0,
+        -0.347826092308545
+      ],
+      "normalized_max": [
+        0.5747792020480147,
+        0.4,
+        0.347826092308545
+      ],
+      "normalized_size": [
+        1.1495584040960294,
+        0.4,
+        0.69565218461709
+      ],
+      "half_height_m": 0.2,
+      "footprint_m": [
+        1.1495584040960294,
+        0.69565218461709
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffee.object_config.json",
+      "mass": 10.0,
+      "template_handle": "tableCoffee"
+    },
+    "tableCoffeeGlass": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCoffeeGlass.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffeeGlass.glb",
+      "category": "coffee",
+      "raw_min": [
+        -0.4609960913658142,
+        -3.609557054039112e-16,
+        -0.30000001192092896
+      ],
+      "raw_max": [
+        0.20000000298023224,
+        0.23000000417232513,
+        0.10000000149011612
+      ],
+      "raw_size": [
+        0.6609960943460464,
+        0.2300000041723255,
+        0.4000000134110451
+      ],
+      "scale_applied": 1.7391304032338344,
+      "target_height_m": 0.4,
+      "normalized_min": [
+        -0.5747792020480147,
+        0.0,
+        -0.347826092308545
+      ],
+      "normalized_max": [
+        0.5747792020480147,
+        0.4,
+        0.347826092308545
+      ],
+      "normalized_size": [
+        1.1495584040960294,
+        0.4,
+        0.69565218461709
+      ],
+      "half_height_m": 0.2,
+      "footprint_m": [
+        1.1495584040960294,
+        0.69565218461709
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffeeGlass.object_config.json",
+      "mass": 10.0,
+      "template_handle": "tableCoffeeGlass"
+    },
+    "tableCoffeeGlassSquare": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCoffeeGlassSquare.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffeeGlassSquare.glb",
+      "category": "coffee",
+      "raw_min": [
+        -0.4609960913658142,
+        -3.609557054039112e-16,
+        -0.30000001192092896
+      ],
+      "raw_max": [
+        -0.06099608168005943,
+        0.23000000417232513,
+        0.10000000149011612
+      ],
+      "raw_size": [
+        0.4000000096857548,
+        0.2300000041723255,
+        0.4000000134110451
+      ],
+      "scale_applied": 1.7391304032338344,
+      "target_height_m": 0.4,
+      "normalized_min": [
+        -0.3478260890691622,
+        0.0,
+        -0.347826092308545
+      ],
+      "normalized_max": [
+        0.3478260890691622,
+        0.4,
+        0.347826092308545
+      ],
+      "normalized_size": [
+        0.6956521781383244,
+        0.4,
+        0.69565218461709
+      ],
+      "half_height_m": 0.2,
+      "footprint_m": [
+        0.6956521781383244,
+        0.69565218461709
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffeeGlassSquare.object_config.json",
+      "mass": 10.0,
+      "template_handle": "tableCoffeeGlassSquare"
+    },
+    "tableCoffeeSquare": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCoffeeSquare.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffeeSquare.glb",
+      "category": "coffee",
+      "raw_min": [
+        -0.4609960913658142,
+        -3.609557054039112e-16,
+        -0.30000001192092896
+      ],
+      "raw_max": [
+        -0.06099608168005943,
+        0.23000000417232513,
+        0.10000000149011612
+      ],
+      "raw_size": [
+        0.4000000096857548,
+        0.2300000041723255,
+        0.4000000134110451
+      ],
+      "scale_applied": 1.7391304032338344,
+      "target_height_m": 0.4,
+      "normalized_min": [
+        -0.3478260890691622,
+        0.0,
+        -0.347826092308545
+      ],
+      "normalized_max": [
+        0.3478260890691622,
+        0.4,
+        0.347826092308545
+      ],
+      "normalized_size": [
+        0.6956521781383244,
+        0.4,
+        0.69565218461709
+      ],
+      "half_height_m": 0.2,
+      "footprint_m": [
+        0.6956521781383244,
+        0.69565218461709
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCoffeeSquare.object_config.json",
+      "mass": 10.0,
+      "template_handle": "tableCoffeeSquare"
+    },
+    "tableCross": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCross.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCross.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44737332344055175
+      ],
+      "raw_max": [
+        0.8521200370788574,
+        0.3474133336544037,
+        0.0
+      ],
+      "raw_size": [
+        0.8521200370788574,
+        0.3474133336544037,
+        0.44737332344055175
+      ],
+      "scale_applied": 2.1588117879956714,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.919783390416573,
+        0.0,
+        -0.4828974021391317
+      ],
+      "normalized_max": [
+        0.919783390416573,
+        0.75,
+        0.4828974021391317
+      ],
+      "normalized_size": [
+        1.839566780833146,
+        0.75,
+        0.9657948042782634
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.839566780833146,
+        0.9657948042782634
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCross.object_config.json",
+      "mass": 20.0,
+      "template_handle": "tableCross"
+    },
+    "tableCrossCloth": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableCrossCloth.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCrossCloth.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44737332344055175
+      ],
+      "raw_max": [
+        0.8521200370788574,
+        0.3474133336544037,
+        0.0
+      ],
+      "raw_size": [
+        0.8521200370788574,
+        0.3474133336544037,
+        0.44737332344055175
+      ],
+      "scale_applied": 2.1588117879956714,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.919783390416573,
+        0.0,
+        -0.4828974021391317
+      ],
+      "normalized_max": [
+        0.919783390416573,
+        0.75,
+        0.4828974021391317
+      ],
+      "normalized_size": [
+        1.839566780833146,
+        0.75,
+        0.9657948042782634
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.839566780833146,
+        0.9657948042782634
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableCrossCloth.object_config.json",
+      "mass": 20.0,
+      "template_handle": "tableCrossCloth"
+    },
+    "tableGlass": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableGlass.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableGlass.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.44737333059310913
+      ],
+      "raw_max": [
+        0.8414879441261292,
+        0.3267339766025543,
+        0.0
+      ],
+      "raw_size": [
+        0.8414879441261292,
+        0.3267339766025543,
+        0.44737333059310913
+      ],
+      "scale_applied": 2.2954453889327673,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.9657948105934187,
+        0.0,
+        -0.5134605244207234
+      ],
+      "normalized_max": [
+        0.9657948105934187,
+        0.75,
+        0.5134605244207234
+      ],
+      "normalized_size": [
+        1.9315896211868373,
+        0.75,
+        1.0269210488414469
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.9315896211868373,
+        1.0269210488414469
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableGlass.object_config.json",
+      "mass": 20.0,
+      "template_handle": "tableGlass"
+    },
+    "tableRound": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/tableRound.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/tableRound.glb",
+      "category": "table",
+      "raw_min": [
+        0.0,
+        -0.26999998092651367,
+        -0.800000011920929
+      ],
+      "raw_max": [
+        0.6928203105926514,
+        0.09673397988080978,
+        0.0
+      ],
+      "raw_size": [
+        0.6928203105926514,
+        0.36673396080732346,
+        0.800000011920929
+      ],
+      "scale_applied": 2.045079213141209,
+      "target_height_m": 0.75,
+      "normalized_min": [
+        -0.7084362078175337,
+        0.0,
+        -0.8180316974461056
+      ],
+      "normalized_max": [
+        0.7084362078175337,
+        0.75,
+        0.8180316974461056
+      ],
+      "normalized_size": [
+        1.4168724156350674,
+        0.75,
+        1.6360633948922112
+      ],
+      "half_height_m": 0.375,
+      "footprint_m": [
+        1.4168724156350674,
+        1.6360633948922112
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/tableRound.object_config.json",
+      "mass": 20.0,
+      "template_handle": "tableRound"
+    },
+    "televisionAntenna": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/televisionAntenna.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/televisionAntenna.glb",
+      "category": "television",
+      "raw_min": [
+        -0.13226386904716492,
+        0.0,
+        -0.07999999821186066
+      ],
+      "raw_max": [
+        0.13226386904716492,
+        0.1027342826128006,
+        0.0
+      ],
+      "raw_size": [
+        0.26452773809432983,
+        0.1027342826128006,
+        0.07999999821186066
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.5290554761886597,
+        0.0,
+        -0.1599999964237213
+      ],
+      "normalized_max": [
+        0.5290554761886597,
+        0.4109371304512024,
+        0.1599999964237213
+      ],
+      "normalized_size": [
+        1.0581109523773193,
+        0.4109371304512024,
+        0.3199999928474426
+      ],
+      "half_height_m": 0.2054685652256012,
+      "footprint_m": [
+        1.0581109523773193,
+        0.3199999928474426
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/televisionAntenna.object_config.json",
+      "mass": 10.0,
+      "template_handle": "televisionAntenna"
+    },
+    "televisionModern": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/televisionModern.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/televisionModern.glb",
+      "category": "television",
+      "raw_min": [
+        -0.3424000144004822,
+        0.0,
+        -0.06419999897480011
+      ],
+      "raw_max": [
+        0.3424000144004822,
+        0.4547500014305115,
+        0.06419999897480011
+      ],
+      "raw_size": [
+        0.6848000288009644,
+        0.4547500014305115,
+        0.12839999794960022
+      ],
+      "scale_applied": 1.2094557411101918,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.4141176631728755,
+        0.0,
+        -0.07764705733934042
+      ],
+      "normalized_max": [
+        0.4141176631728755,
+        0.55,
+        0.07764705733934042
+      ],
+      "normalized_size": [
+        0.828235326345751,
+        0.55,
+        0.15529411467868084
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.828235326345751,
+        0.15529411467868084
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/televisionModern.object_config.json",
+      "mass": 10.0,
+      "template_handle": "televisionModern"
+    },
+    "televisionVintage": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/televisionVintage.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/televisionVintage.glb",
+      "category": "television",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.26999998092651367
+      ],
+      "raw_max": [
+        0.4100000262260437,
+        0.26999998092651367,
+        0.0
+      ],
+      "raw_size": [
+        0.4100000262260437,
+        0.26999998092651367,
+        0.26999998092651367
+      ],
+      "scale_applied": 2.0370371809385217,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.41759264880411,
+        0.0,
+        -0.275
+      ],
+      "normalized_max": [
+        0.41759264880411,
+        0.55,
+        0.275
+      ],
+      "normalized_size": [
+        0.83518529760822,
+        0.55,
+        0.55
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.83518529760822,
+        0.55
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/televisionVintage.object_config.json",
+      "mass": 10.0,
+      "template_handle": "televisionVintage"
+    },
+    "toaster": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/toaster.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/toaster.glb",
+      "category": "default",
+      "raw_min": [
+        -0.09399186819791794,
+        0.0,
+        -0.05000000074505806
+      ],
+      "raw_max": [
+        0.09399186819791794,
+        0.12999999523162842,
+        0.05000000074505806
+      ],
+      "raw_size": [
+        0.18798373639583588,
+        0.12999999523162842,
+        0.10000000149011612
+      ],
+      "scale_applied": 4.0,
+      "target_height_m": 0.9,
+      "normalized_min": [
+        -0.37596747279167175,
+        0.0,
+        -0.20000000298023224
+      ],
+      "normalized_max": [
+        0.37596747279167175,
+        0.5199999809265137,
+        0.20000000298023224
+      ],
+      "normalized_size": [
+        0.7519349455833435,
+        0.5199999809265137,
+        0.4000000059604645
+      ],
+      "half_height_m": 0.25999999046325684,
+      "footprint_m": [
+        0.7519349455833435,
+        0.4000000059604645
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/toaster.object_config.json",
+      "mass": 10.0,
+      "template_handle": "toaster"
+    },
+    "toilet": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/toilet.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/toilet.glb",
+      "category": "toilet",
+      "raw_min": [
+        9.916778889664245e-09,
+        0.0,
+        -1.0619307654386379e-08
+      ],
+      "raw_max": [
+        0.3125500092219908,
+        0.4509650036692619,
+        0.47717670082104985
+      ],
+      "raw_size": [
+        0.3125499993052119,
+        0.4509650036692619,
+        0.4771767114403575
+      ],
+      "scale_applied": 0.9978601362380447,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.15594059244394975,
+        0.0,
+        -0.23807780914374865
+      ],
+      "normalized_max": [
+        0.15594059244394975,
+        0.45,
+        0.23807780914374865
+      ],
+      "normalized_size": [
+        0.3118811848878995,
+        0.45,
+        0.4761556182874973
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.3118811848878995,
+        0.4761556182874973
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/toilet.object_config.json",
+      "mass": 10.0,
+      "template_handle": "toilet"
+    },
+    "toiletSquare": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/toiletSquare.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/toiletSquare.glb",
+      "category": "toilet",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.3871767222881317
+      ],
+      "raw_max": [
+        0.30362001061439514,
+        0.450965017080307,
+        0.0
+      ],
+      "raw_size": [
+        0.30362001061439514,
+        0.450965017080307,
+        0.3871767222881317
+      ],
+      "scale_applied": 0.9978601065631325,
+      "target_height_m": 0.45,
+      "normalized_min": [
+        -0.15148514807318988,
+        0.0,
+        -0.19317410268059973
+      ],
+      "normalized_max": [
+        0.15148514807318988,
+        0.45,
+        0.19317410268059973
+      ],
+      "normalized_size": [
+        0.30297029614637977,
+        0.45,
+        0.38634820536119946
+      ],
+      "half_height_m": 0.225,
+      "footprint_m": [
+        0.30297029614637977,
+        0.38634820536119946
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/toiletSquare.object_config.json",
+      "mass": 10.0,
+      "template_handle": "toiletSquare"
+    },
+    "trashcan": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/trashcan.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/trashcan.glb",
+      "category": "trashcan",
+      "raw_min": [
+        -0.10384674055672745,
+        -2.5062356547304757e-18,
+        -0.11163647732263944
+      ],
+      "raw_max": [
+        0.10384674055672745,
+        0.42786596956182327,
+        0.1224877677452939
+      ],
+      "raw_size": [
+        0.2076934811134549,
+        0.42786596956182327,
+        0.23412424506793333
+      ],
+      "scale_applied": 1.285449274134267,
+      "target_height_m": 0.55,
+      "normalized_min": [
+        -0.13348971726985484,
+        0.0,
+        -0.15047742043990406
+      ],
+      "normalized_max": [
+        0.13348971726985484,
+        0.55,
+        0.15047742043990406
+      ],
+      "normalized_size": [
+        0.2669794345397097,
+        0.55,
+        0.3009548408798081
+      ],
+      "half_height_m": 0.275,
+      "footprint_m": [
+        0.2669794345397097,
+        0.3009548408798081
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/trashcan.object_config.json",
+      "mass": 10.0,
+      "template_handle": "trashcan"
+    },
+    "washer": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/washer.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/washer.glb",
+      "category": "washer",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.3499999940395355
+      ],
+      "raw_max": [
+        0.39000001549720764,
+        0.4699999988079071,
+        0.04000000223298684
+      ],
+      "raw_size": [
+        0.39000001549720764,
+        0.4699999988079071,
+        0.38999999627252235
+      ],
+      "scale_applied": 2.021276600871382,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.39414895283199103,
+        0.0,
+        -0.3941489334027878
+      ],
+      "normalized_max": [
+        0.39414895283199103,
+        0.95,
+        0.3941489334027878
+      ],
+      "normalized_size": [
+        0.7882979056639821,
+        0.95,
+        0.7882978668055756
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.7882979056639821,
+        0.7882978668055756
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/washer.object_config.json",
+      "mass": 45.0,
+      "template_handle": "washer"
+    },
+    "washerDryerStacked": {
+      "source": "/home/ymq/Habitat/data/assets/kenney_furniture/Models/GLTF format/washerDryerStacked.glb",
+      "output": "/home/ymq/Habitat/data/assets/furniture/kenney/washerDryerStacked.glb",
+      "category": "washer",
+      "raw_min": [
+        0.0,
+        0.0,
+        -0.3499999940395355
+      ],
+      "raw_max": [
+        0.39000001549720764,
+        0.9399999976158142,
+        0.04000000223298684
+      ],
+      "raw_size": [
+        0.39000001549720764,
+        0.9399999976158142,
+        0.38999999627252235
+      ],
+      "scale_applied": 1.010638300435691,
+      "target_height_m": 0.95,
+      "normalized_min": [
+        -0.19707447641599551,
+        0.0,
+        -0.1970744667013939
+      ],
+      "normalized_max": [
+        0.19707447641599551,
+        0.95,
+        0.1970744667013939
+      ],
+      "normalized_size": [
+        0.39414895283199103,
+        0.95,
+        0.3941489334027878
+      ],
+      "half_height_m": 0.475,
+      "footprint_m": [
+        0.39414895283199103,
+        0.3941489334027878
+      ],
+      "object_config": "/home/ymq/Habitat/data/assets/furniture/kenney/washerDryerStacked.object_config.json",
+      "mass": 45.0,
+      "template_handle": "washerDryerStacked"
+    }
+  }
+}

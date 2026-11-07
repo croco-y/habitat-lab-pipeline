@@ -1,0 +1,88 @@
+{
+  "stages": {
+    "paths": {
+      ".json": [
+        "."
+      ]
+    },
+    "configs": [
+      {
+        "original_file": "room_base_8x6.stage_config.json",
+        "template_handle": "lab_stage",
+        "attributes": {}
+      }
+    ]
+  },
+  "objects": {
+    "paths": {
+      ".json": [
+        "../assets/objects",
+        "../assets/furniture/kenney"
+      ]
+    },
+    "configs": [
+      {
+        "original_file": "box.object_config.json",
+        "template_handle": "test_box",
+        "attributes": {}
+      },
+      {
+        "original_file": "desk.object_config.json",
+        "template_handle": "desk",
+        "attributes": {}
+      },
+      {
+        "original_file": "chairDesk.object_config.json",
+        "template_handle": "chairDesk",
+        "attributes": {}
+      },
+      {
+        "original_file": "loungeSofa.object_config.json",
+        "template_handle": "loungeSofa",
+        "attributes": {}
+      },
+      {
+        "original_file": "tableCoffee.object_config.json",
+        "template_handle": "tableCoffee",
+        "attributes": {}
+      },
+      {
+        "original_file": "bookcaseOpen.object_config.json",
+        "template_handle": "bookcaseOpen",
+        "attributes": {}
+      },
+      {
+        "original_file": "lampRoundFloor.object_config.json",
+        "template_handle": "lampRoundFloor",
+        "attributes": {}
+      },
+      {
+        "original_file": "pottedPlant.object_config.json",
+        "template_handle": "pottedPlant",
+        "attributes": {}
+      },
+      {
+        "original_file": "sideTable.object_config.json",
+        "template_handle": "sideTable",
+        "attributes": {}
+      },
+      {
+        "original_file": "televisionModern.object_config.json",
+        "template_handle": "televisionModern",
+        "attributes": {}
+      },
+      {
+        "original_file": "trashcan.object_config.json",
+        "template_handle": "trashcan",
+        "attributes": {}
+      }
+    ]
+  },
+  "scene_instances": {
+    "paths": {
+      ".json": [
+        "scenes"
+      ]
+    }
+  }
+}

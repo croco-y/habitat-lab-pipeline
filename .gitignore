@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Habitat-Sim upstream clone (install separately)
+habitat-sim/
+
+# Official / large downloaded datasets
+data/versioned_data/
+data/scene_datasets/
+
+# Raw Kenney pack (optional; processed furniture under data/assets/furniture is enough)
+data/assets/kenney_furniture/
+
+# Generated runtime datasets (rebuild with scripts)
+data/my_lab/robot_path_dataset/
+data/my_lab/debug_views/
+data/my_lab/box_test_output/
+data/my_lab/furniture_nav_test/
+data/my_lab/pathfinding_result.json
+data/my_lab/textures/*.zip
+
+# Outputs
+outputs/
+*.log
+.pytest_cache/
