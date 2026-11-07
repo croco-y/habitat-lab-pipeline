@@ -179,44 +179,6 @@ navmesh         ──► 机器人怎么走
 
 ---
 
-## 上传 GitHub 建议
-
-### 建议提交
-
-- `README.md`、`.gitignore`
-- `scripts/`、根目录调试脚本
-- `data/my_lab/` 下的配置、`room_base_8x6.glb`、`scenes/`、`*.navmesh`
-- `data/assets/furniture/kenney/`（处理后的家具）
-- `data/assets/objects/`（测试盒子）
-- `data/my_lab/textures/` 下的贴图目录（不含 zip）
-
-### 建议不要提交（已在 `.gitignore`）
-
-- `habitat-sim/` 上游仓库
-- `data/versioned_data/` 官方测试场景
-- `data/assets/kenney_furniture/` 原始大包
-- `data/my_lab/robot_path_dataset/` 采集结果（可本地重跑生成）
-- `__pycache__/`、`*.blend1`
-
-### 初始化示例
-
-```bash
-cd /home/ymq/Habitat
-git init
-git add README.md .gitignore scripts check_lab_camera.py test_lab_navmesh_stage.py
-git add data/my_lab data/assets/furniture data/assets/objects
-git status   # 确认没有巨大目录
-git commit -m "Add Habitat lab room, furniture pipeline, and RGB-D capture scripts"
-# 在 GitHub 建好空仓库后：
-git remote add origin git@github.com:<USER>/<REPO>.git
-git branch -M main
-git push -u origin main
-```
-
-若单文件（如 GLB/贴图）超过 100MB，请用 [Git LFS](https://git-lfs.com/)。
-
----
-
 ## 常见命令速查
 
 ```bash
